@@ -1,0 +1,12 @@
+FORM 4.1 (Dec 15 2016) 64-bits                   Run: Tue Nov 13 17:11:57 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   amplBB =
+       + p1.pol2*p2.pol1*sSS^2 * (  - I )
+
+       + pol1.pol2*sSS^2 * ( p1.p2*I );
+
+  0.00 sec out of 0.01 sec

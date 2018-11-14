@@ -1,0 +1,12 @@
+FORM 4.1 (Dec 15 2016) 64-bits                   Run: Tue Nov 13 17:11:57 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   amplPhibarPhi =
+       + sSS^2 * (  - d_(l97,l99)*p2.p1*I )
+
+       + d_(l97,l99)*I*muH^2;
+
+  0.00 sec out of 0.00 sec

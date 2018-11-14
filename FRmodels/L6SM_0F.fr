@@ -1,0 +1,176 @@
+(***************************************************************************************************************)
+(******                       This is the FeynRules mod-file for the Unbroken Standard model              ******)
+(******                                                                                                   ******)
+(******     Authors: J. Santiago                                                                          ******)
+(******                                                                                                   ******)
+(****** Choose whether Feynman gauge is desired.                                                          ******)
+(****** If set to False, unitary gauge is assumed.                                                          ****)
+(****** Feynman gauge is especially useful for CalcHEP/CompHEP where the calculation is 10-100 times faster. ***)
+(****** Feynman gauge is not supported in MadGraph and Sherpa.                                              ****)
+(***************************************************************************************************************)
+
+(* ************************** *)
+(* *****  Information   ***** *)
+(* ************************** *)
+M$ModelName = "L6SM_0F";
+
+M$Information = {
+  Authors      -> {"J. Santiago"}, 
+  Version      -> "1.0",
+  Date         -> "2. 04. 2015",
+  Institutions -> {"CAFPE and Universidad de Granada"},
+  Emails       -> {"jsantiago@ugr.es"}
+};
+
+FeynmanGauge = True;
+
+
+(* ************************** *)
+(* *****   Parameters   ***** *)
+(* ************************** *)
+M$Parameters = {
+
+  (* External parameters *)
+
+  (* Internal Parameters *)
+
+  	 
+  alphaO01 == { 
+    ParameterType    -> Internal
+  },
+
+  alphaO02 == { 
+    ParameterType    -> Internal
+  },
+  	 
+  alphaR01 == { 
+    ParameterType    -> Internal,
+    ComplexParameter -> True
+  },
+  	 
+  alphaO03 == { 
+    ParameterType    -> Internal
+  },
+  	 
+  alphaO04 == { 
+    ParameterType    -> Internal
+  },
+  alphaO05 == { 
+    ParameterType    -> Internal
+  },
+  alphaO06 == { 
+    ParameterType    -> Internal
+  },
+  alphaO07 == { 
+    ParameterType    -> Internal
+  },
+  alphaO08 == { 
+    ParameterType    -> Internal
+  },
+  alphaO09 == { 
+    ParameterType    -> Internal
+  },
+  alphaO10 == { 
+    ParameterType    -> Internal
+  },
+  alphaO11 == { 
+    ParameterType    -> Internal
+  },
+  alphaR02 == { 
+    ParameterType    -> Internal
+  },
+  alphaR03 == { 
+    ParameterType    -> Internal
+  },
+  alphaR04 == { 
+    ParameterType    -> Internal
+  },
+  alphaO12 == { 
+    ParameterType    -> Internal
+  },
+  alphaO13 == { 
+    ParameterType    -> Internal
+  },
+  alphaO14 == { 
+    ParameterType    -> Internal
+  },
+  alphaO15 == { 
+    ParameterType    -> Internal
+  },
+  alphaR05 == { 
+    ParameterType    -> Internal
+  },
+  alphaR06 == { 
+    ParameterType    -> Internal
+  },
+  alphaR07 == { 
+    ParameterType    -> Internal
+  }
+};
+
+
+(* ************************** *)
+(* *****   Lagrangian   ***** *)
+(* ************************** *)
+
+(* Recall that Ta=sigma/2 *)
+(* We have a change of notation wrt HEL *)
+Wvec[mu_,nu_,ii_,jj_]:= Module[{aa},2 Ta[aa,ii,jj] FS[Wi,mu,nu,aa]];
+
+
+LD2S4 := Block[{ii,jj,mu,hermilag,nonhermilag},
+      hermilag=
+		alphaO01 DC[Phibar[ii],mu] Phi[ii]  Phibar[jj] DC[Phi[jj],mu]
+  	       +alphaO02 Phibar[ii] Phi[ii] del[del[Phibar[jj] Phi[jj],mu],mu];
+      nonhermilag=
+               alphaR01 Phibar[ii] Phi[ii] Phibar[jj] DC[DC[Phi[jj],mu],mu];
+
+  ExpandIndices[
+               hermilag+nonhermilag+HC[nonhermilag]
+               , FlavorExpand->{SU2D,SU2W}]
+];
+
+
+LS6 := Block[{ii,jj,kk}, alphaO03 Phibar[ii] Phi[ii] Phibar[jj] Phi[jj] Phibar[kk] Phi[kk]];
+
+LD4S2 := Block[{ii,jj,aa,mu,nu,ro,sig},
+  ExpandIndices[
+                alphaR02 Phibar[ii] DC[DC[DC[DC[Phi[ii],mu],mu],nu],nu]
+	       +I alphaR03 (Phibar[ii] DC[Phi[ii],nu]- DC[Phibar[ii],nu] Phi[ii]) del[FS[B,mu,nu],mu]
+	       +I alphaR04 (Phibar[ii]  DC[Phi[jj],nu]-DC[Phibar[ii],nu] Phi[jj]) DC[Wvec[mu,nu,ii,jj],mu]
+	       (*+I alphaR3bis 1/2 Eps[mu,nu,ro,sig] (Phibar[ii] DC[Phi[ii],nu]- DC[Phibar[ii],nu] Phi[ii]) del[FS[B,ro,sig],mu]
+	       +I alphaR4bis 1/2 Eps[mu,nu,ro,sig] (Phibar[ii] DC[Phi[jj],nu]- DC[Phibar[ii],nu] Phi[jj]) DC[Wvec[ro,sig,ii,jj],mu]*)
+               +alphaO04 Phibar[ii] Phi[ii] FS[G,mu,nu,jj] FS[G,mu,nu,jj]
+               +alphaO05 1/2 Eps[mu,nu,ro,sig] Phibar[ii] Phi[ii] FS[G,mu,nu,aa] FS[G,ro,sig,aa]
+               +alphaO06 Phibar[ii] Phi[ii] FS[Wi,mu,nu,jj] FS[Wi,mu,nu,jj]
+               +alphaO07 1/2 Eps[mu,nu,ro,sig] Phibar[ii] Phi[ii] FS[Wi,mu,nu,aa] FS[Wi,ro,sig,aa]
+               +alphaO08 Phibar[ii] Phi[ii] FS[B,mu,nu] FS[B,mu,nu]
+               +alphaO09 1/2 Eps[mu,nu,ro,sig] Phibar[ii] Phi[ii] FS[B,mu,nu] FS[B,ro,sig]
+               +alphaO10 Phibar[ii] Phi[jj] Wvec[mu,nu,ii,jj] FS[B,mu,nu]
+               +alphaO11 1/2 Eps[mu,nu,ro,sig] Phibar[ii] Phi[jj] Wvec[mu,nu,ii,jj] FS[B,ro,sig]
+               , FlavorExpand->{SU2D,SU2W}]
+];
+
+
+LD6G := Block[{ii,jj,kk,mu,nu,ro,alp,bet},
+  alphaR05 DC[FS[G,mu,nu,ii],mu] DC[FS[G,ro,nu,ii],ro]
+ +alphaO12 fsu3[ii,jj,kk] FS[G,mu,nu,ii] FS[G,nu,ro,jj] FS[G,ro,mu,kk]
+ +alphaO13 1/2 Eps[mu,nu,alp,bet] fsu3[ii,jj,kk] FS[G,alp,bet,ii] FS[G,nu,ro,jj] FS[G,ro,mu,kk]
+];
+
+
+LD6W := Block[{ii,jj,kk,mu,nu,ro,alp,bet},
+ +alphaR06 DC[FS[Wi,mu,nu,ii],mu] DC[FS[Wi,ro,nu,ii],ro]
+ +alphaO14 fsu2[ii,jj,kk] FS[Wi,mu,nu,ii] FS[Wi,nu,ro,jj] FS[Wi,ro,mu,kk]
+ +alphaO15 1/2 Eps[mu,nu,alp,bet] fsu2[ii,jj,kk] FS[Wi,alp,bet,ii] FS[Wi,nu,ro,jj] FS[Wi,ro,mu,kk]
+];
+
+
+
+LD6B := Block[{ii,jj,kk,mu,nu,ro,alp,bet},
+ +alphaR07 ExpandIndices[ del[FS[B,mu,nu],mu] del[FS[B,ro,nu],ro], FlavorExpand->{SU2D,SU2W}]
+];
+
+Ltot:= LD2S4+LS6+LD4S2+LD6G+LD6W+LD6B;
+
+

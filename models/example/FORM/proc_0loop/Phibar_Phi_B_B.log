@@ -1,0 +1,10 @@
+FORM 4.2.0 (Jul  6 2017, v4.2.0) 64-bits         Run: Tue Apr  3 12:30:57 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   amplPhibarPhiBB =
+       + 1/2*d_(l97,l99)*pol3.pol4*I*g1^2;
+
+  0.01 sec out of 0.01 sec

@@ -1,0 +1,1422 @@
+FORM 4.2.0 (Jul  6 2017, v4.2.0) 64-bits         Run: Fri Mar  2 17:14:15 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   amplqLbardRGPhi =
+       + sSS * (  - 1/4*Log[MHQ^2]*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^(-2) - 1/4*Log[MHQ^2]*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p1,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^(-2) - 1/4*Log[MHQ^2]*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^(-2) - 1/4*Log[MHQ^2]*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^(-2) - 1/4*Log[MHQ^2]*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHQ^(-2) - 1/4*Log[MHQ^2]*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,pol3,p1,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHQ^(-2) - 1/4*Log[MHQ^2]*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHQ^(-2) - 1/4*Log[MHQ^2]*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,pol3,p3,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHQ^(-2) + 1/4*Log[MHQ^2]*lamprimeQd[f97]*yu[f99,f4]*
+         lamprimeQubar[f4]*T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^(-2) + 1/4*Log[MHQ^2]*lamprimeQd[f97]*yu[f99,f4]*
+         lamprimeQubar[f4]*T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHQ^(-2) + 1/4*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHQ^(-2)*
+         lamprimeQTRbar + 1/2*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar - 1/2*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^(-2)*
+         lamprimeQTRbar - 1/2*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar - 1/2*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,p4,pol3,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar - 1/4*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHQ^(-2)*
+         lamprimeQTRbar - 1/2*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar + 1/2*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar - 1/4*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,pol3,p4,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHQ^(-2)*
+         lamprimeQTRbar - 1/2*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,pol3,p4,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar + 1/4*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHQ^(-2)*
+         lamprimeQTRbar + 1/2*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar - 1/2*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^(-2)*
+         lamprimeQTRbar - 1/2*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar - 1/2*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar - 1/4*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHQ^(-2)*
+         lamprimeQTRbar - 1/2*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar + 1/2*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar - 1/4*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHQ^(-2)*
+         lamprimeQTRbar - 1/2*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar - 1/4*Log[MHT^2]*lamprime[f99]*yd[f6,f97]*
+         lamprimebar[f6]*T[a95,m99,m97]*gam[y99,FIVE,p4,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^(-2) - 1/4*Log[MHT^2]*lamprime[f99]*yd[f6,f97]*
+         lamprimebar[f6]*T[a95,m99,m97]*gam[y99,p4,pol3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^(-2) - 1/4*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l6,
+         l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ^(-1)*
+         lamprimeQTLbar - 3/8*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHQ^(-2)*
+         lamprimeQTRbar - 1/2*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar + 1/2*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ^(-1)*
+         lamprimeQTLbar + 1/2*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^(-2)*
+         lamprimeQTRbar + 1/2*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar + 1/8*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ^(-1)*
+         lamprimeQTLbar + 1/2*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar - 1/4*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ^(-1)*
+         lamprimeQTLbar + 1/2*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ^(-1)*
+         lamprimeQTLbar + 3/8*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHQ^(-2)*
+         lamprimeQTRbar + 1/2*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar - 1/2*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^(-2)*
+         lamprimeQTRbar - 1/2*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar - 3/8*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ^(-1)*
+         lamprimeQTLbar + 1/2*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ^(-1)*
+         lamprimeQTLbar + 3/8*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHQ^(-2)*
+         lamprimeQTRbar + 1/2*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,FIVE,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar - 1/4*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l6,
+         l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ^(-1)*
+         lamprimeQTLbar - 3/8*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l6,
+         l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHQ^(-2)*lamprimeQTRbar - 1/
+         2*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1,pol3
+         ,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l6,l93]*e_[l6,l99]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*lamprimeQTLbar + 1/2*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^(-1)*MHQ^(-1)*lamprimeQTLbar + 1/2*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHQ^(-2)*lamprimeQTRbar + 1/2*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*
+         lamprimeQTLbar + 1/8*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l6,
+         l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ^(-1)*
+         lamprimeQTLbar + 1/2*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,
+         l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*lamprimeQTLbar
+          - 1/4*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l6,l93]*e_[l6,l99
+         ]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ^(-1)*lamprimeQTLbar + 1/2*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p1,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ^(-1)*lamprimeQTLbar + 3/8*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p2,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l6,l93]*e_[l6,l99]*
+         FourPi^(-2)*I^9*gs*MHQ^(-2)*lamprimeQTRbar + 1/2*lamprime[f99]
+         *lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*
+         MHT*MHQ^(-3)*lamprimeQTLbar - 1/2*lamprime[f99]*lamprimeQd[f97
+         ]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^(-2)*
+         lamprimeQTRbar - 1/2*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,
+         l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-3)*lamprimeQTLbar
+          - 3/8*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l6,l93]*e_[l6,l99
+         ]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ^(-1)*lamprimeQTLbar + 1/2*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p3,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ^(-1)*lamprimeQTLbar + 3/8*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p4,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l6,l93]*e_[l6,l99]*
+         FourPi^(-2)*I^9*gs*MHQ^(-2)*lamprimeQTRbar + 1/2*lamprime[f99]
+         *lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p4,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l6,l93]*e_[l6,l99]*FourPi^(-2)*I^9*gs*
+         MHT*MHQ^(-3)*lamprimeQTLbar - 1/2*lamprime[f99]*yd[f6,f97]*
+         lamprimebar[f6]*T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^(-2) - 1/4*lamprime[f99]*yd[f6,f97]*lamprimebar[f6
+         ]*T[a95,m99,m97]*gam[y99,FIVE,p2,pol3,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^(-2) - 1/8*lamprime[f99]*yd[f6,f97]*lamprimebar[f6]*T[a95,
+         m99,m97]*gam[y99,FIVE,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^(-2) + 1/8*
+         lamprime[f99]*yd[f6,f97]*lamprimebar[f6]*T[a95,m99,m97]*gam[
+         y99,FIVE,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^(-2) - 1/4*lamprime[f99]*yd[
+         f6,f97]*lamprimebar[f6]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p1,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^(-2) - 3/8*lamprime[f99]*yd[f6,f97]*
+         lamprimebar[f6]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^(-2) - 1/2*lamprime[f99]*yd[f6,f97]*lamprimebar[f6
+         ]*T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^(-2) - 1/4*
+         lamprime[f99]*yd[f6,f97]*lamprimebar[f6]*T[a95,m99,m97]*gam[
+         y99,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^(-2) - 1/8*lamprime[f99]*yd[f6,
+         f97]*lamprimebar[f6]*T[a95,m99,m97]*gam[y99,p3,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^(-2) + 1/8*lamprime[f99]*yd[f6,f97]*lamprimebar[f6
+         ]*T[a95,m99,m97]*gam[y99,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^(-2) - 1/4*
+         lamprime[f99]*yd[f6,f97]*lamprimebar[f6]*T[a95,m99,m97]*gam[
+         y99,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^(-2) - 3/8*lamprime[f99]*yd[f6,
+         f97]*lamprimebar[f6]*T[a95,m99,m97]*gam[y99,pol3,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^(-2) + 1/8*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^(-2) - 1/4*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,FIVE,p2,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^(-2) + 1/8*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p1,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^(-2) + 1/8*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^(-2) + 1/8*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^(-2) + 1/8*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHQ^(-2) - 1/4*lamprimeQd[f97]*yu[f99,f8]*lamprimeQubar[f8]*T[
+         a95,m99,m97]*gam[y99,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^(-2) + 1/8*
+         lamprimeQd[f97]*yu[f99,f8]*lamprimeQubar[f8]*T[a95,m99,m97]*
+         gam[y99,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^(-2) + 1/8*lamprimeQd[f97]*
+         yu[f99,f8]*lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,pol3,p2,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHQ^(-2) + 1/8*lamprimeQd[f97]*yu[f99,f8]*
+         lamprimeQubar[f8]*T[a95,m99,m97]*gam[y99,pol3,p3,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHQ^(-2) - 1/2*lamprimeQd[f97]*yu[f99,f4]*lamprimeQubar[f4]*T[
+         a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1
+         ,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^(-2) + 1/8*
+         lamprimeQd[f97]*yu[f99,f4]*lamprimeQubar[f4]*T[a95,m99,m97]*
+         gam[y99,FIVE,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,
+         l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^(-2) - 3/8*lamprimeQd[
+         f97]*yu[f99,f4]*lamprimeQubar[f4]*T[a95,m99,m97]*gam[y99,FIVE,
+         p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHQ^(-2) + 1/8*lamprimeQd[f97]*yu[f99,f4]
+         *lamprimeQubar[f4]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p1,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^(-2) + 3/8*lamprimeQd[f97]*yu[f99,f4]*
+         lamprimeQubar[f4]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^(-2) - 1/8*lamprimeQd[f97]*yu[f99,f4]*
+         lamprimeQubar[f4]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p4,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^(-2) - 1/2*lamprimeQd[f97]*yu[f99,f4]*
+         lamprimeQubar[f4]*T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHQ^(-2) + 1/8*lamprimeQd[f97]*yu[f99,f4]*lamprimeQubar[f4]*T[
+         a95,m99,m97]*gam[y99,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^(-2) - 3/8*
+         lamprimeQd[f97]*yu[f99,f4]*lamprimeQubar[f4]*T[a95,m99,m97]*
+         gam[y99,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^(-2) + 1/8*lamprimeQd[f97]*
+         yu[f99,f4]*lamprimeQubar[f4]*T[a95,m99,m97]*gam[y99,pol3,p1,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHQ^(-2) + 3/8*lamprimeQd[f97]*yu[f99,f4]*
+         lamprimeQubar[f4]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHQ^(-2) - 1/8*lamprimeQd[f97]*yu[f99,f4]*lamprimeQubar[f4]*T[
+         a95,m99,m97]*gam[y99,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^(-2) - 1/4/(
+         MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,FIVE,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*lamprimeQTRbar + 1/
+         4/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1
+         ,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*lamprimeQTRbar
+          - 1/4/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97
+         ]*T[a95,m99,m97]*gam[y99,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*lamprimeQTRbar
+          + 1/4/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97
+         ]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*lamprimeQTRbar
+          + 1/4/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97
+         ]*T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         lamprimeQTRbar + 1/2/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar - 1/2/(MHQ^2 - MHT^2)*Log[
+         MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^(-2)*lamprimeQTRbar - 1/2
+         /(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1
+         ,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-3)*
+         lamprimeQTLbar - 1/2/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p4,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^3*MHQ^(-3)*lamprimeQTLbar + 1/4/(MHQ^2 - MHT^2)*
+         Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[
+         y99,FIVE,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*lamprimeQTRbar + 1/2/(MHQ^2 - 
+         MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,FIVE,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar
+          + 1/4/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97
+         ]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         lamprimeQTRbar - 1/2/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^2*MHQ^(-2)*lamprimeQTRbar + 1/2/(MHQ^2 - MHT^2)*
+         Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[
+         y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-3)*lamprimeQTLbar + 
+         1/4/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,pol3,p3,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         lamprimeQTRbar + 1/2/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar + 1/4/(MHQ^2 - MHT^2)*Log[
+         MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*lamprimeQTRbar + 1/2/(MHQ^2 - MHT^2)*Log[
+         MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar - 1/2/(MHQ^2 - 
+         MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^(-2)*lamprimeQTRbar - 
+         1/2/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-3)*
+         lamprimeQTLbar - 1/2/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p4,pol3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^3*MHQ^(-3)*lamprimeQTLbar + 1/4/(MHQ^2 - MHT^2)*Log[MHT^2]
+         *lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p1,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*lamprimeQTRbar + 1/2/(MHQ^2 - MHT^2)*Log[
+         MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar + 1/4/(MHQ^2
+          - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,
+         l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*lamprimeQTRbar - 1/2/(MHQ^2
+          - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,
+         m97]*gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,
+         l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^(-2)*
+         lamprimeQTRbar + 1/2/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^3*MHQ^(-3)*lamprimeQTLbar + 1/4/(MHQ^2 - MHT^2)*Log[MHT^2]
+         *lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p3,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*lamprimeQTRbar + 1/2/(MHQ^2 - MHT^2)*Log[
+         MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar - 1/4/(MHQ^2
+          - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99
+         ,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ*lamprimeQTLbar - 1/2/(
+         MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,
+         l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*lamprimeQTRbar - 3/8/(MHQ^2
+          - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99
+         ,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar + 1/2/(
+         MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,
+         l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^(-2)*
+         lamprimeQTRbar + 1/2/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[
+         f97]*T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*
+         MHQ^(-3)*lamprimeQTLbar - 1/8/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p2,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*lamprimeQTRbar - 1/8/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p2,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar - 1/8/(MHQ^2 - MHT^2)*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p3,
+         pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ*lamprimeQTLbar - 1/8/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2
+         )*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p4
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar + 1/2/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-3)*lamprimeQTLbar - 1/4
+         /(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,FIVE,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,
+         l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ*lamprimeQTLbar
+          + 1/8/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99
+         ,m97]*gam[y99,FIVE,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-1)*
+         lamprimeQTLbar + 1/8/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[
+         f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         lamprimeQTRbar + 3/8/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[
+         f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*
+         MHQ^(-1)*lamprimeQTLbar - 1/2/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^3*MHQ^(-3)*lamprimeQTLbar - 1/8/(MHQ^2 - MHT^2)*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3
+         ,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ*lamprimeQTLbar + 1/8/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*lamprimeQTRbar + 1/8/(MHQ^2 - MHT^2
+         )*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,
+         pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar - 1/4/(MHQ^2
+          - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99
+         ,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,
+         l2]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ*lamprimeQTLbar - 1/2/(
+         MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*lamprimeQTRbar - 3/8/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar + 1/2/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^2*MHQ^(-2)*lamprimeQTRbar + 1/2/(MHQ^2
+          - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99
+         ,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,
+         l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-3)*lamprimeQTLbar - 1/8/(
+         MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*lamprimeQTRbar - 1/8/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p2
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar - 1/8/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p3
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ*lamprimeQTLbar - 1/8/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p3
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p4,pol3,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar + 1/2/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p4
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-3)*lamprimeQTLbar - 1/4/(MHQ^2
+          - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99
+         ,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,
+         l2]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ*lamprimeQTLbar + 1/8/(
+         MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar + 1/
+         8/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*lamprimeQTRbar + 3/8/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar - 1/2/(MHQ^2
+          - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99
+         ,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,
+         l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-3)*lamprimeQTLbar - 1/8/(
+         MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^(-1)*MHQ*lamprimeQTLbar + 1/
+         8/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*lamprimeQTRbar + 1/8/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT*MHQ^(-1)*lamprimeQTLbar - 1/4/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[
+         f97]*T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*
+         lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p2
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHQ^2*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,FIVE,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1
+         ,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*
+         lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p4
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar - 1/2/(MHQ^2 - MHT^2
+         )/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,FIVE,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1
+         ,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*
+         lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,
+         pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHQ^2*lamprimeQTRbar - 1/2/(MHQ^2 - MHT^2
+         )/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1
+         ,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*
+         lamprimeQTLbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,
+         pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2
+         )/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,FIVE,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1
+         ,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*
+         lamprimeQTRbar - 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,
+         pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar - 1/4/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97
+         ]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p4,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*
+         lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,
+         pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar - 1/4/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97
+         ]*T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*
+         lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p2,pol3
+         ,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHQ^2*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*lamprimeQTRbar
+          + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99
+         ]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p4,pol3,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT*MHQ*lamprimeQTLbar - 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*
+         Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[
+         y99,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar - 1/4/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[
+         f97]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*
+         lamprimeQTRbar - 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p2
+         ,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar + 1/4/(MHQ^2 - MHT^2
+         )/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar
+          - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99
+         ]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p3,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHQ^2*lamprimeQTRbar - 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*
+         Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[
+         y99,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar - 1/4/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[
+         f97]*T[a95,m99,m97]*gam[y99,pol3,p4,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*
+         lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p4
+         ,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar + 1/4/(MHQ^2 - MHT^2
+         )/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1
+         ,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*
+         lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p1
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar - 3/4/(MHQ^2 - MHT^2
+         )/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1
+         ,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*
+         lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p2
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar - 1/2/(MHQ^2 - MHT^2
+         )/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,FIVE,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1
+         ,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*
+         lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p3
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2
+         )/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,FIVE,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1
+         ,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*
+         lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p4
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar - 1/2/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,FIVE,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1
+         ,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-1)*
+         lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,
+         pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar + 1/2/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97
+         ]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p1,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*
+         MHQ^(-1)*lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*
+         Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[
+         y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar + 1/2/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^2*lamprimeQTRbar + 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-1)*
+         lamprimeQTLbar - 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,
+         pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT^4*MHQ^(-2)*lamprimeQTRbar - 1/4/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ*lamprimeQTLbar + 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,FIVE,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-1)*
+         lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,
+         pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2
+         )/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*lamprimeQTRbar
+          - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99
+         ]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT*MHQ*lamprimeQTLbar - 3/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*
+         Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[
+         y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar - 1/4/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[
+         f97]*T[a95,m99,m97]*gam[y99,p2,pol3,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*
+         lamprimeQTLbar - 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p2,pol3
+         ,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*
+         lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2
+         ]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p3,pol3
+         ,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar
+          - 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99
+         ]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p4,pol3,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^3*MHQ^(-1)*lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar + 1/2/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p1,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^3*MHQ^(-1)*lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar + 1/2/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^2*lamprimeQTRbar + 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*
+         Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[
+         y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-1)*lamprimeQTLbar - 1/2
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^4*MHQ^(-2)*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar + 1/2/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^3*MHQ^(-1)*lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar + 1/4/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*
+         lamprimeQTRbar + 1/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ*lamprimeQTLbar + 5/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar + 3/8/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,FIVE,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*
+         lamprimeQTRbar + 1/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p2,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ*lamprimeQTLbar + 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar + 3/8/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,FIVE,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*
+         lamprimeQTRbar + 1/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p3,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ*lamprimeQTLbar + 1/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar - 3/8/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,FIVE,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*
+         lamprimeQTLbar + 1/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p4,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^2*lamprimeQTRbar + 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-1)*lamprimeQTLbar - 1/4
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]
+         *T[a95,m99,m97]*gam[y99,FIVE,pol3,p1,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*
+         lamprimeQTRbar + 5/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p1,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ*lamprimeQTLbar - 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-1)*lamprimeQTLbar + 1/8
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]
+         *T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*
+         lamprimeQTRbar + 5/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ*lamprimeQTLbar - 7/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar - 1/2/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-1)*
+         lamprimeQTLbar + 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^4*MHQ^(-2)*lamprimeQTRbar + 1/8/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,FIVE,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,
+         l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*lamprimeQTRbar + 5/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,pol3,p3,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*
+         lamprimeQTLbar - 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^3*MHQ^(-1)*lamprimeQTLbar + 1/8/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,FIVE,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,
+         l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*lamprimeQTRbar + 1/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,pol3,p4,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*
+         lamprimeQTLbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p4,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^2*lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHQ^2*lamprimeQTRbar + 1/8/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar + 5/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*
+         lamprimeQTRbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p2,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^2*lamprimeQTRbar + 1/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p2
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar + 1/2/(MHQ^2 - MHT^2
+         )/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar + 3/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*
+         lamprimeQTRbar + 1/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p3,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ*lamprimeQTLbar + 1/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p3
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar + 1/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*
+         lamprimeQTRbar + 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p4,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^3*MHQ^(-1)*lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*lamprimeQTRbar + 5/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*
+         lamprimeQTLbar - 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p1,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^3*MHQ^(-1)*lamprimeQTLbar + 1/8/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^2*lamprimeQTRbar + 5/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ*
+         lamprimeQTLbar - 7/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^2*lamprimeQTRbar - 1/2/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-1)*lamprimeQTLbar + 1/2/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^4*MHQ^(-2)*
+         lamprimeQTRbar + 1/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^2*lamprimeQTRbar + 5/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar - 1/2/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99
+         ,m97]*gam[y99,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ^(-1)*
+         lamprimeQTLbar + 1/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p4,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^2*lamprimeQTRbar + 1/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT*MHQ*lamprimeQTLbar + 3/8/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99
+         ,m97]*gam[y99,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*lamprimeQTRbar + 1/4
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p1,
+         pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ^3*lamprimeQTLbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[
+         f97]*T[a95,m99,m97]*gam[y99,FIVE,p2,pol3,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*
+         lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,FIVE,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar + 
+         1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]
+         *lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p3,
+         pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p3,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ^3*lamprimeQTLbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[
+         f97]*T[a95,m99,m97]*gam[y99,FIVE,p4,pol3,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*
+         lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,FIVE,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar - 
+         1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]
+         *lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,
+         pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2
+         )/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p1,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ^3*lamprimeQTLbar + 1/2/(MHQ^2 - MHT^2)/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[
+         f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p1,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*
+         MHQ^2*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*
+         lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar + 
+         1/2/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]
+         *lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,
+         pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar + 1/4/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ^3*lamprimeQTLbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[
+         f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p3,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*
+         MHQ^2*lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,FIVE,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*
+         lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,FIVE,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar + 
+         1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]
+         *lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1,pol3,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT*MHQ^3*lamprimeQTLbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar
+          + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[
+         MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p2
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar + 1/4/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99
+         ]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p3,pol3,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHQ^4*lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[
+         l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar
+          + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[
+         MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p4
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p4,pol3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT*MHQ^3*lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar
+          + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[
+         MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar + 1/2/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99
+         ]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p1,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^2*MHQ^2*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97
+         ]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*
+         lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar + 1/2/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p2,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar + 1/4/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99
+         ]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p3,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT*MHQ^3*lamprimeQTLbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^2*
+         lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHQ^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar + 1/4/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHQ^2]*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p4,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar + 1/4/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99
+         ]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^3*MHQ*lamprimeQTLbar - 1/2/(MHQ^2 - MHT^2)/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[
+         f97]*T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^4*
+         lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,FIVE,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar
+          - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[
+         MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar - 1/2/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p2,
+         pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^4*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p3,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^3*MHQ*lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[
+         f97]*T[a95,m99,m97]*gam[y99,FIVE,p3,pol3,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^4*
+         lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,FIVE,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar
+          - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[
+         MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar - 1/4/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3
+         ,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar - 1/4/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99
+         ]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p1,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^4*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97
+         ]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*
+         MHQ*lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^4*
+         lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,FIVE,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar - 
+         1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]
+         *lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,
+         pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT^4*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2
+         )/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p4,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^3*MHQ*lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[
+         f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p4,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^4*
+         lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar - 1/4
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1,pol3,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar - 1/2/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99
+         ]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^4*lamprimeQTRbar + 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[
+         l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^2*
+         lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar - 1/2/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p2,pol3,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^4*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p3,pol3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^3*MHQ*lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^4*lamprimeQTRbar
+          - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[
+         MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p4
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar - 1/4/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99
+         ]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p4,pol3,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^3*MHQ*lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*
+         lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]
+         *gam[y99,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^4*lamprimeQTRbar - 1/4/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p2,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar - 1/4/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99
+         ]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2
+         ,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^4*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[
+         l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar
+          - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[
+         MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT^4*lamprimeQTRbar - 1/4/(MHQ^2 - MHT^2
+         )/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p4,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^3*MHQ*lamprimeQTLbar - 1/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*Log[MHT^2]*lamprime[f99]*lamprimeQd[f97]*T[
+         a95,m99,m97]*gam[y99,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^4*lamprimeQTRbar
+          - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p1,
+         pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]
+         *T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*
+         MHQ^3*lamprimeQTLbar - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,FIVE,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,
+         l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar
+          + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p1,
+         pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar + 3/4/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p1,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^4*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99
+         ,m97]*gam[y99,FIVE,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar
+          - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p2,
+         pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar - 3/8/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p2,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar + 3/8/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,p2,pol3,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*
+         lamprimeQTLbar + 3/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^4*lamprimeQTRbar - 3/8/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p3,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHQ^4*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99
+         ,m97]*gam[y99,FIVE,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^3*
+         lamprimeQTLbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar + 3/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p3,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^4*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99
+         ,m97]*gam[y99,FIVE,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar
+          - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p4,
+         pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar + 3/8/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,p4,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar + 3/8/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,p4,pol3,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*
+         lamprimeQTLbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar - 3/8/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p1,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ^3*lamprimeQTLbar - 3/4/(MHQ^2 - MHT^2)/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,FIVE,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^2*
+         lamprimeQTRbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar + 3/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p1,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^4*lamprimeQTRbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99
+         ,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar
+          - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3
+         ,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar - 3/4/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar + 3/8/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*
+         lamprimeQTLbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^4*lamprimeQTRbar - 3/8/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT*MHQ^3*lamprimeQTLbar - 3/8/(MHQ^2 - MHT^2)/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,FIVE,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^2*
+         lamprimeQTRbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         FIVE,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[
+         l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar + 3/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^4*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99
+         ,m97]*gam[y99,FIVE,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar
+          - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*
+         lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3
+         ,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar + 3/8/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,FIVE,pol3,p4,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^3*MHQ*lamprimeQTLbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2
+          - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,
+         m99,m97]*gam[y99,FIVE,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^4*
+         lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]
+         *T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^3*
+         lamprimeQTLbar - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1
+         ,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*
+         FourPi^(-2)*I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar + 3/8/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p1,pol3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^3*MHQ*lamprimeQTLbar + 3/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,p1,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^4*lamprimeQTRbar - 3/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p2,pol3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHQ^4*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar - 3/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p2,pol3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^2*MHQ^2*lamprimeQTRbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99
+         ,m97]*gam[y99,p2,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar + 
+         3/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p2,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^4*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99
+         ,m97]*gam[y99,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar - 3/8
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]
+         *lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p3,pol3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT*MHQ^3*lamprimeQTLbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar + 3/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p3,pol3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^4*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar - 3/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p4,pol3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT*MHQ^3*lamprimeQTLbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,p4,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar + 3/8
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]
+         *lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,p4,pol3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^3*MHQ*lamprimeQTLbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*lamprimeQTRbar - 3/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p1,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT*MHQ^3*lamprimeQTLbar - 3/4/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar + 3/8
+         /(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]
+         *lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p1,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^3*MHQ*lamprimeQTLbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,pol3,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^4*lamprimeQTRbar + 3/8/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHQ^4*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar - 3/4/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^2*MHQ^2*lamprimeQTRbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99
+         ,m97]*gam[y99,pol3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*lamprimeQTLbar + 
+         3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p2,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^4*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99
+         ,m97]*gam[y99,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93
+         ,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar - 
+         3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[
+         f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)
+         *I^9*gs*MHT^2*MHQ^2*lamprimeQTRbar + 3/8/(MHQ^2 - MHT^2)/(
+         MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*
+         T[a95,m99,m97]*gam[y99,pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^3*MHQ*
+         lamprimeQTLbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         pol3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT^4*lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2
+         )/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97
+         ]*T[a95,m99,m97]*gam[y99,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,
+         y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*MHQ^4*
+         lamprimeQTRbar - 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - 
+         MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,
+         pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2
+         ]*FourPi^(-2)*I^9*gs*MHT*MHQ^3*lamprimeQTLbar + 3/8/(MHQ^2 - 
+         MHT^2)/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)*lamprime[f99]*
+         lamprimeQd[f97]*T[a95,m99,m97]*gam[y99,pol3,p4,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l93,l2]*e_[l99,l2]*FourPi^(-2)*I^9*gs*
+         MHT^3*MHQ*lamprimeQTLbar + 3/8/(MHQ^2 - MHT^2)/(MHQ^2 - MHT^2)
+         /(MHQ^2 - MHT^2)*lamprime[f99]*lamprimeQd[f97]*T[a95,m99,m97]*
+         gam[y99,pol3,p4,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l93,l2]*
+         e_[l99,l2]*FourPi^(-2)*I^9*gs*MHT^4*lamprimeQTRbar );
+
+  0.22 sec out of 0.22 sec

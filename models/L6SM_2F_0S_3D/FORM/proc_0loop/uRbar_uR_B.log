@@ -1,0 +1,138 @@
+FORM 4.2.0 (Jul  6 2017, v4.2.0) 64-bits         Run: Wed Mar  7 01:44:36 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   ampluRbaruRB =
+       + sSS^2 * ( 1/2*alphaE15[f99,f97]*gam[y99,FIVE,p3,p3,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97) - 1/2*alphaE15[f99,
+         f97]*gam[y99,FIVE,pol3,p3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *d_(m99,m97) - 1/2*alphaE15[f99,f97]*gam[y99,p3,p3,pol3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97) + 1/2*alphaE15[f99,
+         f97]*gam[y99,pol3,p3,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         d_(m99,m97) + 1/8*alphaE25[f99,f97]*gam[y99,FIVE,p3,
+         mumuminus801,mumuminus802,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[p3,pol3,mumuminus801,mumuminus802]*d_(m99,m97) + 1/8*
+         alphaE25[f99,f97]*gam[y99,FIVE,p3,mumuminus801,mumuminus803,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus803]*d_(m99,m97) - 1/8*alphaE25[f99,f97]*gam[y99,FIVE
+         ,p3,mumuminus802,mumuminus801,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[p3,pol3,mumuminus801,mumuminus802]*d_(m99,m97) - 1/8*
+         alphaE25[f99,f97]*gam[y99,FIVE,p3,mumuminus803,mumuminus801,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus803]*d_(m99,m97) + 1/8*alphaE25[f99,f97]*gam[y99,FIVE
+         ,mumuminus801,mumuminus802,p3,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[p3,pol3,mumuminus801,mumuminus802]*d_(m99,m97) + 1/8*
+         alphaE25[f99,f97]*gam[y99,FIVE,mumuminus801,mumuminus803,p3,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus803]*d_(m99,m97) - 1/8*alphaE25[f99,f97]*gam[y99,FIVE
+         ,mumuminus802,mumuminus801,p3,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[p3,pol3,mumuminus801,mumuminus802]*d_(m99,m97) - 1/8*
+         alphaE25[f99,f97]*gam[y99,FIVE,mumuminus803,mumuminus801,p3,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus803]*d_(m99,m97) - 1/8*alphaE25[f99,f97]*gam[y99,p3,
+         mumuminus801,mumuminus802,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[p3,pol3,mumuminus801,mumuminus802]*d_(m99,m97) - 1/8*
+         alphaE25[f99,f97]*gam[y99,p3,mumuminus801,mumuminus803,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus803]*d_(m99,m97) + 1/8*alphaE25[f99,f97]*gam[y99,p3,
+         mumuminus802,mumuminus801,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[p3,pol3,mumuminus801,mumuminus802]*d_(m99,m97) + 1/8*
+         alphaE25[f99,f97]*gam[y99,p3,mumuminus803,mumuminus801,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus803]*d_(m99,m97) - 1/8*alphaE25[f99,f97]*gam[y99,
+         mumuminus801,mumuminus802,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[p3,pol3,mumuminus801,mumuminus802]*d_(m99,m97) - 1/8*
+         alphaE25[f99,f97]*gam[y99,mumuminus801,mumuminus803,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus803]*d_(m99,m97) + 1/8*alphaE25[f99,f97]*gam[y99,
+         mumuminus802,mumuminus801,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[p3,pol3,mumuminus801,mumuminus802]*d_(m99,m97) + 1/8*
+         alphaE25[f99,f97]*gam[y99,mumuminus803,mumuminus801,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus803]*d_(m99,m97) - 4/3*alphaR30[f99,f97]*gam[y99,FIVE
+         ,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97)*p2.pol3*I*g1
+          - 2/3*alphaR30[f99,f97]*gam[y99,FIVE,p2,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*d_(m99,m97)*p3.pol3*I*g1 - 2/3*alphaR30[f99,f97
+         ]*gam[y99,FIVE,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         d_(m99,m97)*p2.pol3*I*g1 - 1/3*alphaR30[f99,f97]*gam[y99,FIVE,
+         p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97)*p3.pol3*I*g1
+          - 2/3*alphaR30[f99,f97]*gam[y99,FIVE,pol3,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*d_(m99,m97)*p2.p2*I*g1 - 2/3*alphaR30[f99,f97]*
+         gam[y99,FIVE,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         d_(m99,m97)*p2.p3*I*g1 - 1/3*alphaR30[f99,f97]*gam[y99,FIVE,
+         pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97)*p3.p3*I*g1
+          + 4/3*alphaR30[f99,f97]*gam[y99,p2,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*d_(m99,m97)*p2.pol3*I*g1 + 2/3*alphaR30[f99,f97]*gam[
+         y99,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97)*p3.pol3*I
+         *g1 + 2/3*alphaR30[f99,f97]*gam[y99,p3,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*d_(m99,m97)*p2.pol3*I*g1 + 1/3*alphaR30[f99,f97
+         ]*gam[y99,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97)*
+         p3.pol3*I*g1 + 2/3*alphaR30[f99,f97]*gam[y99,pol3,y97]*uspin[
+         p2,y97]*vbspin[p1,y99]*d_(m99,m97)*p2.p2*I*g1 + 2/3*alphaR30[
+         f99,f97]*gam[y99,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         d_(m99,m97)*p2.p3*I*g1 + 1/3*alphaR30[f99,f97]*gam[y99,pol3,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97)*p3.p3*I*g1 - 1/2
+         *alphaR35[f99,f97]*gam[y99,FIVE,p3,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*d_(m99,m97)*p3.pol3*I + 1/2*alphaR35[f99,f97]*gam[y99,
+         FIVE,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97)*p3.p3*
+         I + 1/2*alphaR35[f99,f97]*gam[y99,p3,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*d_(m99,m97)*p3.pol3*I - 1/2*alphaR35[f99,f97]*
+         gam[y99,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97)*
+         p3.p3*I + 1/2*alphaR48[f99,f97]*gam[y99,FIVE,p3,pol3,p2,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97)*I - 1/2*alphaR48[f99,
+         f97]*gam[y99,FIVE,pol3,p3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *d_(m99,m97)*I - 1/2*alphaR48[f99,f97]*gam[y99,p3,pol3,p2,y97]
+         *uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97)*I + 1/2*alphaR48[f99
+         ,f97]*gam[y99,pol3,p3,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         d_(m99,m97)*I + 1/8*alphaR49[f99,f97]*gam[y99,FIVE,
+         mumuminus801,mumuminus802,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[p3,pol3,mumuminus801,mumuminus802]*d_(m99,m97)*I + 1/8*
+         alphaR49[f99,f97]*gam[y99,FIVE,mumuminus801,mumuminus803,p2,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus803]*d_(m99,m97)*I - 1/8*alphaR49[f99,f97]*gam[y99,
+         FIVE,mumuminus802,mumuminus801,p2,y97]*uspin[p2,y97]*vbspin[p1
+         ,y99]*e_[p3,pol3,mumuminus801,mumuminus802]*d_(m99,m97)*I - 1/
+         8*alphaR49[f99,f97]*gam[y99,FIVE,mumuminus803,mumuminus801,p2,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus803]*d_(m99,m97)*I - 1/8*alphaR49[f99,f97]*gam[y99,
+         mumuminus801,mumuminus802,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[p3,pol3,mumuminus801,mumuminus802]*d_(m99,m97)*I - 1/8*
+         alphaR49[f99,f97]*gam[y99,mumuminus801,mumuminus803,p2,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus803]*d_(m99,m97)*I + 1/8*alphaR49[f99,f97]*gam[y99,
+         mumuminus802,mumuminus801,p2,y97]*uspin[p2,y97]*vbspin[p1,y99]
+         *e_[p3,pol3,mumuminus801,mumuminus802]*d_(m99,m97)*I + 1/8*
+         alphaR49[f99,f97]*gam[y99,mumuminus803,mumuminus801,p2,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus803]*d_(m99,m97)*I - 1/2*alphaR48bar[f97,f99]*gam[y99
+         ,FIVE,p1,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97)
+         *I + 1/2*alphaR48bar[f97,f99]*gam[y99,FIVE,p1,pol3,p3,y97]*
+         uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97)*I + 1/2*alphaR48bar[
+         f97,f99]*gam[y99,p1,p3,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         d_(m99,m97)*I - 1/2*alphaR48bar[f97,f99]*gam[y99,p1,pol3,p3,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(m99,m97)*I - 1/8*
+         alphaR49bar[f97,f99]*gam[y99,FIVE,p1,mumuminus801,mumuminus802
+         ,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus802]*d_(m99,m97)*I - 1/8*alphaR49bar[f97,f99]*gam[y99
+         ,FIVE,p1,mumuminus801,mumuminus803,y97]*uspin[p2,y97]*vbspin[
+         p1,y99]*e_[p3,pol3,mumuminus801,mumuminus803]*d_(m99,m97)*I + 
+         1/8*alphaR49bar[f97,f99]*gam[y99,FIVE,p1,mumuminus802,
+         mumuminus801,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,
+         mumuminus801,mumuminus802]*d_(m99,m97)*I + 1/8*alphaR49bar[f97
+         ,f99]*gam[y99,FIVE,p1,mumuminus803,mumuminus801,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,mumuminus803]*
+         d_(m99,m97)*I + 1/8*alphaR49bar[f97,f99]*gam[y99,p1,
+         mumuminus801,mumuminus802,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         e_[p3,pol3,mumuminus801,mumuminus802]*d_(m99,m97)*I + 1/8*
+         alphaR49bar[f97,f99]*gam[y99,p1,mumuminus801,mumuminus803,y97]
+         *uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus803]*d_(m99,m97)*I - 1/8*alphaR49bar[f97,f99]*gam[y99
+         ,p1,mumuminus802,mumuminus801,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[p3,pol3,mumuminus801,mumuminus802]*d_(m99,m97)*I - 1/8*
+         alphaR49bar[f97,f99]*gam[y99,p1,mumuminus803,mumuminus801,y97]
+         *uspin[p2,y97]*vbspin[p1,y99]*e_[p3,pol3,mumuminus801,
+         mumuminus803]*d_(m99,m97)*I );
+
+  0.02 sec out of 0.02 sec

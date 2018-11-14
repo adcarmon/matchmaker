@@ -1,0 +1,1 @@
+amplPhiPhiPhiPhibarPhibarPhibar =+ 6*dd[l99,l89]*dd[l97,l91]*dd[l95,l93]*I*alphaO03 + 6*dd[l99,l89]*dd[l97,l93]*dd[l91,l95]*I*alphaO03 + 6*dd[l99,l91]*dd[l89,l97]*dd[l95,l93]*I*alphaO03 + 6*dd[l99,l91]*dd[l89,l95]*dd[l97,l93]*I*alphaO03 + 6*dd[l99,l93]*dd[l89,l97]*dd[l91,l95]*I*alphaO03 + 6*dd[l99,l93]*dd[l89,l95]*dd[l97,l91]*I*alphaO03;

@@ -1,0 +1,242 @@
+diags:=[
+ 
+(+1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(BH0(1,-p1-p2),BH0(2,-p1-p2))*
+ prop(BH0(3,-k1),BH0(4,-k1))*
+ prop(uR(5,k1-p3),uRbar(6,k1-p3))*
+ prop(uR(7,k1+p4),uRbar(8,k1+p4))*
+ v3(qLbar(-1,p1),qL(-3,p2),BH0(1,-p1-p2))*
+ v3(uRbar(-5,p3),uR(5,k1-p3),BH0(3,-k1))*
+ v3(uRbar(8,-k1-p4),uR(-7,p4),BH0(4,k1))*
+ v3(uRbar(6,-k1+p3),uR(7,k1+p4),BH0(2,p1+p2)),
+ 
+(+1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(BH0(1,-p3-p4),BH0(2,-p3-p4))*
+ prop(BH0(3,-k1),BH0(4,-k1))*
+ prop(qL(5,k1-p1),qLbar(6,k1-p1))*
+ prop(qL(7,k1+p2),qLbar(8,k1+p2))*
+ v3(uRbar(-5,p3),uR(-7,p4),BH0(1,-p3-p4))*
+ v3(qLbar(-1,p1),qL(5,k1-p1),BH0(3,-k1))*
+ v3(qLbar(8,-k1-p2),qL(-3,p2),BH0(4,k1))*
+ v3(qLbar(6,-k1+p1),qL(7,k1+p2),BH0(2,p3+p4)),
+ 
+(+1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(qL(1,-k1),qLbar(2,-k1))*
+ prop(GQuantum(3,k1-p1),GQuantum(4,k1-p1))*
+ prop(BH0(5,-k1-p2),BH0(6,-k1-p2))*
+ prop(uR(7,k1-p1-p3),uRbar(8,k1-p1-p3))*
+ v3(qLbar(-1,p1),qL(1,-k1),GQuantum(3,k1-p1))*
+ v3(qLbar(2,k1),qL(-3,p2),BH0(5,-k1-p2))*
+ v3(uRbar(-5,p3),uR(7,k1-p1-p3),GQuantum(4,-k1+p1))*
+ v3(uRbar(8,-k1+p1+p3),uR(-7,p4),BH0(6,k1+p2)),
+ 
+(+1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(qL(1,-k1),qLbar(2,-k1))*
+ prop(BQuantum(3,k1-p1),BQuantum(4,k1-p1))*
+ prop(BH0(5,-k1-p2),BH0(6,-k1-p2))*
+ prop(uR(7,k1-p1-p3),uRbar(8,k1-p1-p3))*
+ v3(qLbar(-1,p1),qL(1,-k1),BQuantum(3,k1-p1))*
+ v3(qLbar(2,k1),qL(-3,p2),BH0(5,-k1-p2))*
+ v3(uRbar(-5,p3),uR(7,k1-p1-p3),BQuantum(4,-k1+p1))*
+ v3(uRbar(8,-k1+p1+p3),uR(-7,p4),BH0(6,k1+p2)),
+ 
+(+1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(qL(1,-k1),qLbar(2,-k1))*
+ prop(BH0(3,k1-p1),BH0(4,k1-p1))*
+ prop(GQuantum(5,-k1-p2),GQuantum(6,-k1-p2))*
+ prop(uR(7,k1-p1-p3),uRbar(8,k1-p1-p3))*
+ v3(qLbar(-1,p1),qL(1,-k1),BH0(3,k1-p1))*
+ v3(qLbar(2,k1),qL(-3,p2),GQuantum(5,-k1-p2))*
+ v3(uRbar(-5,p3),uR(7,k1-p1-p3),BH0(4,-k1+p1))*
+ v3(uRbar(8,-k1+p1+p3),uR(-7,p4),GQuantum(6,k1+p2)),
+ 
+(+1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(qL(1,-k1),qLbar(2,-k1))*
+ prop(BH0(3,k1-p1),BH0(4,k1-p1))*
+ prop(BQuantum(5,-k1-p2),BQuantum(6,-k1-p2))*
+ prop(uR(7,k1-p1-p3),uRbar(8,k1-p1-p3))*
+ v3(qLbar(-1,p1),qL(1,-k1),BH0(3,k1-p1))*
+ v3(qLbar(2,k1),qL(-3,p2),BQuantum(5,-k1-p2))*
+ v3(uRbar(-5,p3),uR(7,k1-p1-p3),BH0(4,-k1+p1))*
+ v3(uRbar(8,-k1+p1+p3),uR(-7,p4),BQuantum(6,k1+p2)),
+ 
+(+1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(qL(1,-k1),qLbar(2,-k1))*
+ prop(BH0(3,k1-p1),BH0(4,k1-p1))*
+ prop(BH0(5,-k1-p2),BH0(6,-k1-p2))*
+ prop(uR(7,k1-p1-p3),uRbar(8,k1-p1-p3))*
+ v3(qLbar(-1,p1),qL(1,-k1),BH0(3,k1-p1))*
+ v3(qLbar(2,k1),qL(-3,p2),BH0(5,-k1-p2))*
+ v3(uRbar(-5,p3),uR(7,k1-p1-p3),BH0(4,-k1+p1))*
+ v3(uRbar(8,-k1+p1+p3),uR(-7,p4),BH0(6,k1+p2)),
+ 
+(+1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(qL(1,-k1),qLbar(2,-k1))*
+ prop(GQuantum(3,k1-p1),GQuantum(4,k1-p1))*
+ prop(BH0(5,-k1-p2),BH0(6,-k1-p2))*
+ prop(uR(7,-k1+p1+p4),uRbar(8,-k1+p1+p4))*
+ v3(qLbar(-1,p1),qL(1,-k1),GQuantum(3,k1-p1))*
+ v3(qLbar(2,k1),qL(-3,p2),BH0(5,-k1-p2))*
+ v3(uRbar(8,k1-p1-p4),uR(-7,p4),GQuantum(4,-k1+p1))*
+ v3(uRbar(-5,p3),uR(7,-k1+p1+p4),BH0(6,k1+p2)),
+ 
+(+1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(qL(1,-k1),qLbar(2,-k1))*
+ prop(BQuantum(3,k1-p1),BQuantum(4,k1-p1))*
+ prop(BH0(5,-k1-p2),BH0(6,-k1-p2))*
+ prop(uR(7,-k1+p1+p4),uRbar(8,-k1+p1+p4))*
+ v3(qLbar(-1,p1),qL(1,-k1),BQuantum(3,k1-p1))*
+ v3(qLbar(2,k1),qL(-3,p2),BH0(5,-k1-p2))*
+ v3(uRbar(8,k1-p1-p4),uR(-7,p4),BQuantum(4,-k1+p1))*
+ v3(uRbar(-5,p3),uR(7,-k1+p1+p4),BH0(6,k1+p2)),
+ 
+(+1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(qL(1,-k1),qLbar(2,-k1))*
+ prop(BH0(3,k1-p1),BH0(4,k1-p1))*
+ prop(GQuantum(5,-k1-p2),GQuantum(6,-k1-p2))*
+ prop(uR(7,-k1+p1+p4),uRbar(8,-k1+p1+p4))*
+ v3(qLbar(-1,p1),qL(1,-k1),BH0(3,k1-p1))*
+ v3(qLbar(2,k1),qL(-3,p2),GQuantum(5,-k1-p2))*
+ v3(uRbar(8,k1-p1-p4),uR(-7,p4),BH0(4,-k1+p1))*
+ v3(uRbar(-5,p3),uR(7,-k1+p1+p4),GQuantum(6,k1+p2)),
+ 
+(+1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(qL(1,-k1),qLbar(2,-k1))*
+ prop(BH0(3,k1-p1),BH0(4,k1-p1))*
+ prop(BQuantum(5,-k1-p2),BQuantum(6,-k1-p2))*
+ prop(uR(7,-k1+p1+p4),uRbar(8,-k1+p1+p4))*
+ v3(qLbar(-1,p1),qL(1,-k1),BH0(3,k1-p1))*
+ v3(qLbar(2,k1),qL(-3,p2),BQuantum(5,-k1-p2))*
+ v3(uRbar(8,k1-p1-p4),uR(-7,p4),BH0(4,-k1+p1))*
+ v3(uRbar(-5,p3),uR(7,-k1+p1+p4),BQuantum(6,k1+p2)),
+ 
+(+1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(qL(1,-k1),qLbar(2,-k1))*
+ prop(BH0(3,k1-p1),BH0(4,k1-p1))*
+ prop(BH0(5,-k1-p2),BH0(6,-k1-p2))*
+ prop(uR(7,-k1+p1+p4),uRbar(8,-k1+p1+p4))*
+ v3(qLbar(-1,p1),qL(1,-k1),BH0(3,k1-p1))*
+ v3(qLbar(2,k1),qL(-3,p2),BH0(5,-k1-p2))*
+ v3(uRbar(8,k1-p1-p4),uR(-7,p4),BH0(4,-k1+p1))*
+ v3(uRbar(-5,p3),uR(7,-k1+p1+p4),BH0(6,k1+p2)),
+ 
+(-1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(Phi(1,k1),Phibar(2,k1))*
+ prop(uR(3,k1-p1),uRbar(4,k1-p1))*
+ prop(uR(5,k1+p2),uRbar(6,k1+p2))*
+ prop(BH0(7,k1-p1-p4),BH0(8,k1-p1-p4))*
+ v3(qLbar(-1,p1),uR(3,k1-p1),Phibar(2,-k1))*
+ v3(uRbar(6,-k1-p2),qL(-3,p2),Phi(1,k1))*
+ v3(uRbar(4,-k1+p1),uR(-7,p4),BH0(7,k1-p1-p4))*
+ v3(uRbar(-5,p3),uR(5,k1+p2),BH0(8,-k1+p1+p4)),
+ 
+(-1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(BH0(1,-k1),BH0(2,-k1))*
+ prop(qL(3,k1-p1),qLbar(4,k1-p1))*
+ prop(qL(5,k1+p2),qLbar(6,k1+p2))*
+ prop(Phi(7,-k1+p1+p4),Phibar(8,-k1+p1+p4))*
+ v3(qLbar(-1,p1),qL(3,k1-p1),BH0(1,-k1))*
+ v3(qLbar(6,-k1-p2),qL(-3,p2),BH0(2,k1))*
+ v3(qLbar(4,-k1+p1),uR(-7,p4),Phibar(8,k1-p1-p4))*
+ v3(uRbar(-5,p3),qL(5,k1+p2),Phi(7,-k1+p1+p4)),
+ 
+(-1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(Phi(1,k1),Phibar(2,k1))*
+ prop(uR(3,k1-p1),uRbar(4,k1-p1))*
+ prop(qL(5,-k1-p3),qLbar(6,-k1-p3))*
+ prop(BH0(7,k1-p1-p4),BH0(8,k1-p1-p4))*
+ v3(qLbar(-1,p1),uR(3,k1-p1),Phibar(2,-k1))*
+ v3(uRbar(-5,p3),qL(5,-k1-p3),Phi(1,k1))*
+ v3(uRbar(4,-k1+p1),uR(-7,p4),BH0(7,k1-p1-p4))*
+ v3(qLbar(6,k1+p3),qL(-3,p2),BH0(8,-k1+p1+p4)),
+ 
+(-1)*
+ cpol(qLbar(-1,p1))*
+ cpol(qL(-3,p2))*
+ cpol(uRbar(-5,p3))*
+ cpol(uR(-7,p4))*
+
+ prop(BH0(1,-k1),BH0(2,-k1))*
+ prop(qL(3,k1-p1),qLbar(4,k1-p1))*
+ prop(uR(5,-k1-p3),uRbar(6,-k1-p3))*
+ prop(Phi(7,-k1+p1+p4),Phibar(8,-k1+p1+p4))*
+ v3(qLbar(-1,p1),qL(3,k1-p1),BH0(1,-k1))*
+ v3(uRbar(-5,p3),uR(5,-k1-p3),BH0(2,k1))*
+ v3(qLbar(4,-k1+p1),uR(-7,p4),Phibar(8,k1-p1-p4))*
+ v3(uRbar(6,k1+p3),qL(-3,p2),Phi(7,-k1+p1+p4)),
+NULL]:

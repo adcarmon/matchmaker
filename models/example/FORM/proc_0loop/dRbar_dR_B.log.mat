@@ -1,0 +1,1 @@
+ampldRbardRB =- 1/6*gam[y99,FIVE,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*dd[m99,m97]*dd[f99,f97]*I*g1 + 1/6*gam[y99,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*dd[m99,m97]*dd[f99,f97]*I*g1;

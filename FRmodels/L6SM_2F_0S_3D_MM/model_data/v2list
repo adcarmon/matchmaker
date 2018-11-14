@@ -1,0 +1,5 @@
+lLbar  lL  (-1)*((I)*((alphaR27[ff1,ff2])*((deltaF[ll1,ll2])*((pp2.pp2)*(gam[yy1,pp2,SEVEN,yy2])))))
+qLbar  qL  (-1)*((I)*((alphaR29[ff1,ff2])*((deltaF[mm1,mm2])*((deltaF[ll1,ll2])*((pp2.pp2)*(gam[yy1,pp2,SEVEN,yy2]))))))
+eRbar  eR  (-1)*((I)*((alphaR28[ff1,ff2])*((pp2.pp2)*(gam[yy1,pp2,SIX,yy2]))))
+uRbar  uR  (-1)*((I)*((alphaR30[ff1,ff2])*((deltaF[mm1,mm2])*((pp2.pp2)*(gam[yy1,pp2,SIX,yy2])))))
+dRbar  dR  (-1)*((I)*((alphaR31[ff1,ff2])*((deltaF[mm1,mm2])*((pp2.pp2)*(gam[yy1,pp2,SIX,yy2])))))

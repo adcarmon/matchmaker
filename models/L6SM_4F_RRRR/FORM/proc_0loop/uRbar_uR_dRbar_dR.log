@@ -1,0 +1,122 @@
+FORM 4.2.0 (Jul  6 2017, v4.2.0) 64-bits         Run: Wed Mar  7 01:44:39 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   ampluRbaruRdRbardR =
+       + 1/4*alphaE56[f99,f97,f95,f93]*gam[y99,FIVE,mumuminus901,
+         mumuminus902,mumuminus903,y97]*gam[y95,FIVE,mumuminus901,
+         mumuminus902,mumuminus903,y93]*uspin[p2,y97]*uspin[p4,y93]*
+         vbspin[p1,y99]*vbspin[p3,y95]*d_(m95,m93)*d_(m97,m99)*I - 1/4*
+         alphaE56[f99,f97,f95,f93]*gam[y99,FIVE,mumuminus901,
+         mumuminus902,mumuminus903,y97]*gam[y95,mumuminus901,
+         mumuminus902,mumuminus903,y93]*uspin[p2,y97]*uspin[p4,y93]*
+         vbspin[p1,y99]*vbspin[p3,y95]*d_(m95,m93)*d_(m97,m99)*I - 1/4*
+         alphaE56[f99,f97,f95,f93]*gam[y99,mumuminus901,mumuminus902,
+         mumuminus903,y97]*gam[y95,FIVE,mumuminus901,mumuminus902,
+         mumuminus903,y93]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*
+         vbspin[p3,y95]*d_(m95,m93)*d_(m97,m99)*I + 1/4*alphaE56[f99,
+         f97,f95,f93]*gam[y99,mumuminus901,mumuminus902,mumuminus903,
+         y97]*gam[y95,mumuminus901,mumuminus902,mumuminus903,y93]*
+         uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*
+         d_(m95,m93)*d_(m97,m99)*I + 1/4*alphaE57[f99,f97,f95,f93]*T[
+         aminus901,m95,m93]*T[aminus901,m99,m97]*gam[y99,FIVE,
+         mumuminus901,mumuminus902,mumuminus903,y97]*gam[y95,FIVE,
+         mumuminus901,mumuminus902,mumuminus903,y93]*uspin[p2,y97]*
+         uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*I - 1/4*alphaE57[
+         f99,f97,f95,f93]*T[aminus901,m95,m93]*T[aminus901,m99,m97]*
+         gam[y99,FIVE,mumuminus901,mumuminus902,mumuminus903,y97]*gam[
+         y95,mumuminus901,mumuminus902,mumuminus903,y93]*uspin[p2,y97]*
+         uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*I - 1/4*alphaE57[
+         f99,f97,f95,f93]*T[aminus901,m95,m93]*T[aminus901,m99,m97]*
+         gam[y99,mumuminus901,mumuminus902,mumuminus903,y97]*gam[y95,
+         FIVE,mumuminus901,mumuminus902,mumuminus903,y93]*uspin[p2,y97]
+         *uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*I + 1/4*alphaE57[
+         f99,f97,f95,f93]*T[aminus901,m95,m93]*T[aminus901,m99,m97]*
+         gam[y99,mumuminus901,mumuminus902,mumuminus903,y97]*gam[y95,
+         mumuminus901,mumuminus902,mumuminus903,y93]*uspin[p2,y97]*
+         uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*I - 1/4*alphaE62[
+         f99,f93,f95,f97]*gam[y99,FIVE,mumuminus901,mumuminus902,
+         mumuminus903,y93]*gam[y95,FIVE,mumuminus901,mumuminus902,
+         mumuminus903,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*
+         vbspin[p3,y95]*d_(m95,m97)*d_(m93,m99)*I + 1/4*alphaE62[f99,
+         f93,f95,f97]*gam[y99,FIVE,mumuminus901,mumuminus902,
+         mumuminus903,y93]*gam[y95,mumuminus901,mumuminus902,
+         mumuminus903,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*
+         vbspin[p3,y95]*d_(m95,m97)*d_(m93,m99)*I + 1/4*alphaE62[f99,
+         f93,f95,f97]*gam[y99,mumuminus901,mumuminus902,mumuminus903,
+         y93]*gam[y95,FIVE,mumuminus901,mumuminus902,mumuminus903,y97]*
+         uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*
+         d_(m95,m97)*d_(m93,m99)*I - 1/4*alphaE62[f99,f93,f95,f97]*gam[
+         y99,mumuminus901,mumuminus902,mumuminus903,y93]*gam[y95,
+         mumuminus901,mumuminus902,mumuminus903,y97]*uspin[p2,y97]*
+         uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(m95,m97)*
+         d_(m93,m99)*I - 1/4*alphaE63[f99,f93,f95,f97]*T[aminus901,m95,
+         m97]*T[aminus901,m99,m93]*gam[y99,FIVE,mumuminus901,
+         mumuminus902,mumuminus903,y93]*gam[y95,FIVE,mumuminus901,
+         mumuminus902,mumuminus903,y97]*uspin[p2,y97]*uspin[p4,y93]*
+         vbspin[p1,y99]*vbspin[p3,y95]*I + 1/4*alphaE63[f99,f93,f95,f97
+         ]*T[aminus901,m95,m97]*T[aminus901,m99,m93]*gam[y99,FIVE,
+         mumuminus901,mumuminus902,mumuminus903,y93]*gam[y95,
+         mumuminus901,mumuminus902,mumuminus903,y97]*uspin[p2,y97]*
+         uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*I + 1/4*alphaE63[
+         f99,f93,f95,f97]*T[aminus901,m95,m97]*T[aminus901,m99,m93]*
+         gam[y99,mumuminus901,mumuminus902,mumuminus903,y93]*gam[y95,
+         FIVE,mumuminus901,mumuminus902,mumuminus903,y97]*uspin[p2,y97]
+         *uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*I - 1/4*alphaE63[
+         f99,f93,f95,f97]*T[aminus901,m95,m97]*T[aminus901,m99,m93]*
+         gam[y99,mumuminus901,mumuminus902,mumuminus903,y93]*gam[y95,
+         mumuminus901,mumuminus902,mumuminus903,y97]*uspin[p2,y97]*
+         uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*I - 1/4*alphaF32[
+         f99,f93,f95,f97]*gam[y99,FIVE,mumuminus901,y93]*gam[y95,FIVE,
+         mumuminus901,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*
+         vbspin[p3,y95]*d_(m95,m97)*d_(m93,m99)*I + 1/4*alphaF32[f99,
+         f93,f95,f97]*gam[y99,FIVE,mumuminus901,y93]*gam[y95,
+         mumuminus901,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*
+         vbspin[p3,y95]*d_(m95,m97)*d_(m93,m99)*I + 1/4*alphaF32[f99,
+         f93,f95,f97]*gam[y99,mumuminus901,y93]*gam[y95,FIVE,
+         mumuminus901,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*
+         vbspin[p3,y95]*d_(m95,m97)*d_(m93,m99)*I - 1/4*alphaF32[f99,
+         f93,f95,f97]*gam[y99,mumuminus901,y93]*gam[y95,mumuminus901,
+         y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]
+         *d_(m95,m97)*d_(m93,m99)*I - 1/4*alphaF33[f99,f93,f95,f97]*T[
+         aminus901,m95,m97]*T[aminus901,m99,m93]*gam[y99,FIVE,
+         mumuminus901,y93]*gam[y95,FIVE,mumuminus901,y97]*uspin[p2,y97]
+         *uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*I + 1/4*alphaF33[
+         f99,f93,f95,f97]*T[aminus901,m95,m97]*T[aminus901,m99,m93]*
+         gam[y99,FIVE,mumuminus901,y93]*gam[y95,mumuminus901,y97]*
+         uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*I + 
+         1/4*alphaF33[f99,f93,f95,f97]*T[aminus901,m95,m97]*T[aminus901
+         ,m99,m93]*gam[y99,mumuminus901,y93]*gam[y95,FIVE,mumuminus901,
+         y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]
+         *I - 1/4*alphaF33[f99,f93,f95,f97]*T[aminus901,m95,m97]*T[
+         aminus901,m99,m93]*gam[y99,mumuminus901,y93]*gam[y95,
+         mumuminus901,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*
+         vbspin[p3,y95]*I + 1/4*alphaO58[f99,f97,f95,f93]*gam[y99,FIVE,
+         mumuminus901,y97]*gam[y95,FIVE,mumuminus901,y93]*uspin[p2,y97]
+         *uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(m95,m93)*
+         d_(m97,m99)*I - 1/4*alphaO58[f99,f97,f95,f93]*gam[y99,FIVE,
+         mumuminus901,y97]*gam[y95,mumuminus901,y93]*uspin[p2,y97]*
+         uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(m95,m93)*
+         d_(m97,m99)*I - 1/4*alphaO58[f99,f97,f95,f93]*gam[y99,
+         mumuminus901,y97]*gam[y95,FIVE,mumuminus901,y93]*uspin[p2,y97]
+         *uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(m95,m93)*
+         d_(m97,m99)*I + 1/4*alphaO58[f99,f97,f95,f93]*gam[y99,
+         mumuminus901,y97]*gam[y95,mumuminus901,y93]*uspin[p2,y97]*
+         uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(m95,m93)*
+         d_(m97,m99)*I + 1/4*alphaO59[f99,f97,f95,f93]*T[aminus901,m95,
+         m93]*T[aminus901,m99,m97]*gam[y99,FIVE,mumuminus901,y97]*gam[
+         y95,FIVE,mumuminus901,y93]*uspin[p2,y97]*uspin[p4,y93]*vbspin[
+         p1,y99]*vbspin[p3,y95]*I - 1/4*alphaO59[f99,f97,f95,f93]*T[
+         aminus901,m95,m93]*T[aminus901,m99,m97]*gam[y99,FIVE,
+         mumuminus901,y97]*gam[y95,mumuminus901,y93]*uspin[p2,y97]*
+         uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*I - 1/4*alphaO59[
+         f99,f97,f95,f93]*T[aminus901,m95,m93]*T[aminus901,m99,m97]*
+         gam[y99,mumuminus901,y97]*gam[y95,FIVE,mumuminus901,y93]*
+         uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*I + 
+         1/4*alphaO59[f99,f97,f95,f93]*T[aminus901,m95,m93]*T[aminus901
+         ,m99,m97]*gam[y99,mumuminus901,y97]*gam[y95,mumuminus901,y93]*
+         uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*I;
+
+  0.01 sec out of 0.00 sec

@@ -1,0 +1,292 @@
+(***************************************************************************************************************)
+(******                       This is the FeynRules mod-file for the Unbroken Standard model              ******)
+(******                                                                                                   ******)
+(******     Authors: J. Santiago                                                                          ******)
+(******                                                                                                   ******)
+(****** Choose whether Feynman gauge is desired.                                                          ******)
+(****** If set to False, unitary gauge is assumed.                                                          ****)
+(****** Feynman gauge is especially useful for CalcHEP/CompHEP where the calculation is 10-100 times faster. ***)
+(****** Feynman gauge is not supported in MadGraph and Sherpa.                                              ****)
+(***************************************************************************************************************)
+
+(* ************************** *)
+(* *****  Information   ***** *)
+(* ************************** *)
+M$ModelName = "Truly_UnbrokenSM_BFM";
+
+M$Information = {
+  Authors      -> {"J. Santiago"}, 
+  Version      -> "1.0",
+  Date         -> "17. 07. 2017",
+  Institutions -> {"CAFPE and Universidad de Granada"},
+  Emails       -> {"jsantiago@ugr.es"}
+};
+
+FeynmanGauge = True;
+
+(* ************************** *)
+(* *****  Gauge groups  ***** *)
+(* ************************** *)
+M$GaugeGroups = {
+  U1Y  == { 
+    Abelian          -> True,  
+    CouplingConstant -> g1, 
+    GaugeBoson       -> B, 
+    Charge           -> Y
+  },
+  SU2L == { 
+    Abelian           -> False, 
+    CouplingConstant  -> gw, 
+    GaugeBoson        -> Wi, 
+    StructureConstant -> fsu2, 
+    Representations   -> {{Ta,SU2D}}
+    (*Representations   -> {{Ta,SU2D},{FSU2L,SU2W}}*)
+  },
+  SU3C == { 
+    Abelian           -> False, 
+    CouplingConstant  -> gs, 
+    GaugeBoson        -> G,
+    StructureConstant -> fsu3, 
+    Representations   -> {{T,Colour}}, 
+    SymmetricTensor   -> dSUN
+  } 
+};
+
+
+(* ************************** *)
+(* *****    Indices     ***** *)
+(* ************************** *)
+
+IndexRange[Index[SU2W      ]] = Range[3]; 
+IndexRange[Index[SU2D      ]] = Range[2];
+IndexRange[Index[Gluon     ]] = Range[8];
+IndexRange[Index[Colour    ]] = Range[3]; 
+IndexRange[Index[Generation]] = Range[3];
+
+IndexStyle[SU2W,       n];
+IndexStyle[SU2D,       l];
+IndexStyle[Gluon,      a];
+IndexStyle[Colour,     m];
+IndexStyle[Generation, f];
+
+
+(* ************************** *)
+(* **** Particle classes **** *)
+(* ************************** *)
+M$ClassesDescription = {
+
+(* Gauge bosons: physical vector fields *)
+  V[4] == {
+    ClassName        -> G,
+    SelfConjugate    -> True,
+    Indices          -> {Index[Gluon]},
+    Mass             -> 0,
+    Width            -> 0
+},
+
+  V[2] == {
+    ClassName        -> Wi,
+    SelfConjugate    -> True,
+    Indices          -> {Index[SU2W]},
+    Mass             -> 0,
+    Width            -> 0
+},
+
+
+  V[11] == { 
+    ClassName     -> B, 
+    SelfConjugate -> True,
+    Mass             -> 0,
+    Width            -> 0
+  },
+
+(* Gauge bosons: quantum fluctuations *)
+
+  V[104] == {
+    ClassName        -> GQuantum,
+    SelfConjugate    -> True,
+    Indices          -> {Index[Gluon]},
+    Mass             -> 0,
+    Width            -> 0
+},
+
+
+  V[102] == {
+    ClassName        -> WiQuantum,
+    SelfConjugate    -> True,
+    Indices          -> {Index[SU2W]},
+    Mass             -> 0,
+    Width            -> 0
+},
+
+  V[111] == { 
+    ClassName     -> BQuantum, 
+    SelfConjugate -> True,
+    Mass             -> 0,
+    Width            -> 0
+  },
+
+
+(* Ghosts: related to physical gauge bosons *)
+
+  U[4] == { 
+    ClassName       -> ghG, 
+    SelfConjugate   -> False,
+    Indices         -> {Index[Gluon]},
+    Ghost           -> G,
+    PDG             -> 82,
+    QuantumNumbers  ->{GhostNumber -> 1}, 
+    Mass            -> 0,
+    Width	    -> 0
+  },
+
+
+  U[1] == { 
+    ClassName       -> ghWi, 
+    SelfConjugate   -> False,
+    Indices       -> {Index[SU2W]},
+    Ghost           -> Wi,
+    QuantumNumbers  -> {GhostNumber -> 1},
+    Mass            -> 0,
+    Width	    -> 0
+  },
+
+  U[11] == {
+    ClassName     -> ghB, 
+    SelfConjugate -> False,
+    Ghost         -> B, 
+    QuantumNumbers  ->{GhostNumber -> 1}, 
+    Mass            -> 0,
+    Width	    -> 0
+  },
+
+
+(* Fermions: physical fields *)
+
+  F[11] == { 
+    ClassName      -> lL, 
+    Indices        -> {Index[SU2D], Index[Generation]},
+    SelfConjugate  -> False,
+    Mass             -> 0,
+    QuantumNumbers -> {Y -> -1/2}
+  },
+
+
+  F[12] == { 
+    ClassName      -> eR, 
+    Indices        -> {Index[Generation]},
+    SelfConjugate  -> False,
+    Mass             -> 0,
+    QuantumNumbers -> {Y -> -1}
+  },
+
+  F[13] == { 
+    ClassName      -> qL, 
+    Indices        -> {Index[SU2D], Index[Generation], Index[Colour]},
+    SelfConjugate  -> False,
+    Mass             -> 0,
+    QuantumNumbers -> {Y -> 1/6}
+  },
+
+  F[14] == { 
+    ClassName      -> uR, 
+    Indices        -> {Index[Generation], Index[Colour]},
+    SelfConjugate  -> False,
+    Mass             -> 0,
+    QuantumNumbers -> {Y -> 2/3}
+  },
+
+  F[15] == { 
+    ClassName      -> dR, 
+    Indices        -> {Index[Generation], Index[Colour]},
+    SelfConjugate  -> False,
+    Mass             -> 0,
+    QuantumNumbers -> {Y -> -1/3}
+  },
+
+
+(* Fermions: unphysical fields, we use them just to apply directly the chirality *)
+
+  F[111] == { 
+    ClassName      -> LL, 
+    Indices        -> {Index[SU2D], Index[Generation]},
+    SelfConjugate  -> False,
+    QuantumNumbers -> {Y -> -1/2},
+    Unphysical     -> True, 
+    Definitions    -> { LL[sp_,kk_,ff_] :> left[lL[sp,kk,ff]]}
+  },
+
+  F[112] == { 
+    ClassName      -> LR, 
+    Indices        -> {Index[Generation]},
+    SelfConjugate  -> False,
+    Mass             -> 0,
+    QuantumNumbers -> {Y -> -1},
+    Unphysical     -> True, 
+    Definitions    -> { LR[sp_,ff_] :> right[eR[sp,ff]]}
+  },
+
+  F[113] == { 
+    ClassName      -> QL, 
+    Indices        -> {Index[SU2D], Index[Generation], Index[Colour]},
+    SelfConjugate  -> False,
+    Mass             -> 0,
+    QuantumNumbers -> {Y -> 1/6},
+    Unphysical     -> True, 
+    Definitions    -> { QL[sp_,kk_,ff_,cc_] :> left[qL[sp,kk,ff,cc]]}
+  },
+
+  F[114] == { 
+    ClassName      -> UR, 
+    Indices        -> {Index[Generation], Index[Colour]},
+    SelfConjugate  -> False,
+    Mass             -> 0,
+    QuantumNumbers -> {Y -> 2/3},
+    Unphysical     -> True, 
+    Definitions    -> { UR[sp_,ff_,cc_] :> right[uR[sp,ff,cc]]}
+  },
+
+  F[115] == { 
+    ClassName      -> DR, 
+    Indices        -> {Index[Generation], Index[Colour]},
+    SelfConjugate  -> False,
+    Mass             -> 0,
+    QuantumNumbers -> {Y -> -1/3},
+    Unphysical     -> True, 
+    Definitions    -> { DR[sp_,ff_,cc_] :> right[dR[sp,ff,cc]]}
+  },
+
+
+(* Higgs: physical scalars  *)
+
+  S[11] == { 
+    ClassName      -> Phi, 
+    Indices        -> {Index[SU2D]},
+    SelfConjugate  -> False,
+    Mass             -> 0,
+    QuantumNumbers -> {Y -> 1/2}
+  }
+
+
+};
+
+
+(* ************************** *)
+(* *****   Parameters   ***** *)
+(* ************************** *)
+M$Parameters = {
+
+  (* External parameters *)
+
+  (* Internal Parameters *)
+  g1 == { 
+    ParameterType    -> Internal
+  },
+  gw == { 
+    ParameterType    -> Internal
+  },
+  gs == { 
+    ParameterType    -> Internal
+  }
+};
+

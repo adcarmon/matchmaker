@@ -1,0 +1,20 @@
+diags:=[
+ 
+(-1)*
+ cpol(G(-1,p1))*
+ cpol(G(-3,p2))*
+
+ prop(HT(1,k1-p1),HTbar(2,k1-p1))*
+ prop(HT(3,k1),HTbar(4,k1))*
+ v3(HTbar(4,-k1),HT(1,k1-p1),G(-1,p1))*
+ v3(HTbar(2,-k1+p1),HT(3,k1),G(-3,p2)),
+ 
+(-1)*
+ cpol(G(-1,p1))*
+ cpol(G(-3,p2))*
+
+ prop(HQ(1,k1-p1),HQbar(2,k1-p1))*
+ prop(HQ(3,k1),HQbar(4,k1))*
+ v3(HQbar(4,-k1),HQ(1,k1-p1),G(-1,p1))*
+ v3(HQbar(2,-k1+p1),HQ(3,k1),G(-3,p2)),
+NULL]:

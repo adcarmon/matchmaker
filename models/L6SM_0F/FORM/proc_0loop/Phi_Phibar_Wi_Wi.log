@@ -1,0 +1,76 @@
+FORM 4.2.0 (Jul  6 2017, v4.2.0) 64-bits         Run: Tue Apr  3 00:22:13 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   amplPhiPhibarWiWi =
+       + sSS^2 * (  - 4*d_(l99,l97)*d_(n95,n93)*p3.p4*pol3.pol4*I*
+         alphaO06 + 4*d_(l99,l97)*d_(n95,n93)*p3.pol4*p4.pol3*I*
+         alphaO06 + 4*e_[p3,p4,pol3,pol4]*d_(l99,l97)*d_(n95,n93)*I*
+         alphaO07 - 2*Ta[n95,l97,lminus901]*Ta[n93,lminus901,l99]*p3.p3
+         *pol3.pol4*I*gw*alphaR04 + Ta[n95,l97,lminus901]*Ta[n93,
+         lminus901,l99]*p3.p3*pol3.pol4*I*gw^2*alphaR02 + 2*Ta[n95,l97,
+         lminus901]*Ta[n93,lminus901,l99]*p3.p4*pol3.pol4*I*gw^2*
+         alphaR02 + 2*Ta[n95,l97,lminus901]*Ta[n93,lminus901,l99]*p3.p1
+         *pol3.pol4*I*gw^2*alphaR02 + 2*Ta[n95,l97,lminus901]*Ta[n93,
+         lminus901,l99]*p3.pol3*p3.pol4*I*gw*alphaR04 + 2*Ta[n95,l97,
+         lminus901]*Ta[n93,lminus901,l99]*p3.pol3*p3.pol4*I*gw^2*
+         alphaR02 + Ta[n95,l97,lminus901]*Ta[n93,lminus901,l99]*p3.pol3
+         *p4.pol4*I*gw^2*alphaR02 + 2*Ta[n95,l97,lminus901]*Ta[n93,
+         lminus901,l99]*p3.pol3*p1.pol4*I*gw^2*alphaR02 + 4*Ta[n95,l97,
+         lminus901]*Ta[n93,lminus901,l99]*p3.pol4*p1.pol3*I*gw^2*
+         alphaR02 - 2*Ta[n95,l97,lminus901]*Ta[n93,lminus901,l99]*p4.p4
+         *pol3.pol4*I*gw*alphaR04 + Ta[n95,l97,lminus901]*Ta[n93,
+         lminus901,l99]*p4.p4*pol3.pol4*I*gw^2*alphaR02 + 2*Ta[n95,l97,
+         lminus901]*Ta[n93,lminus901,l99]*p4.p1*pol3.pol4*I*gw^2*
+         alphaR02 + 2*Ta[n95,l97,lminus901]*Ta[n93,lminus901,l99]*
+         p4.pol3*p4.pol4*I*gw*alphaR04 + 2*Ta[n95,l97,lminus901]*Ta[n93
+         ,lminus901,l99]*p4.pol4*p1.pol3*I*gw^2*alphaR02 + 2*Ta[n95,l97
+         ,lminus901]*Ta[n93,lminus901,l99]*p1.p1*pol3.pol4*I*gw^2*
+         alphaR02 + 4*Ta[n95,l97,lminus901]*Ta[n93,lminus901,l99]*
+         p1.pol3*p1.pol4*I*gw^2*alphaR02 - 2*Ta[n95,lminus901,l99]*Ta[
+         n93,l97,lminus901]*p3.p3*pol3.pol4*I*gw*alphaR04 + Ta[n95,
+         lminus901,l99]*Ta[n93,l97,lminus901]*p3.p3*pol3.pol4*I*gw^2*
+         alphaR02 + 2*Ta[n95,lminus901,l99]*Ta[n93,l97,lminus901]*p3.p4
+         *pol3.pol4*I*gw^2*alphaR02 + 2*Ta[n95,lminus901,l99]*Ta[n93,
+         l97,lminus901]*p3.p1*pol3.pol4*I*gw^2*alphaR02 + 2*Ta[n95,
+         lminus901,l99]*Ta[n93,l97,lminus901]*p3.pol3*p3.pol4*I*gw*
+         alphaR04 + Ta[n95,lminus901,l99]*Ta[n93,l97,lminus901]*p3.pol3
+         *p4.pol4*I*gw^2*alphaR02 + 2*Ta[n95,lminus901,l99]*Ta[n93,l97,
+         lminus901]*p3.pol3*p1.pol4*I*gw^2*alphaR02 - 2*Ta[n95,
+         lminus901,l99]*Ta[n93,l97,lminus901]*p4.p4*pol3.pol4*I*gw*
+         alphaR04 + Ta[n95,lminus901,l99]*Ta[n93,l97,lminus901]*p4.p4*
+         pol3.pol4*I*gw^2*alphaR02 + 2*Ta[n95,lminus901,l99]*Ta[n93,l97
+         ,lminus901]*p4.p1*pol3.pol4*I*gw^2*alphaR02 + 2*Ta[n95,
+         lminus901,l99]*Ta[n93,l97,lminus901]*p4.pol3*p4.pol4*I*gw*
+         alphaR04 + 2*Ta[n95,lminus901,l99]*Ta[n93,l97,lminus901]*
+         p4.pol3*p4.pol4*I*gw^2*alphaR02 + 4*Ta[n95,lminus901,l99]*Ta[
+         n93,l97,lminus901]*p4.pol3*p1.pol4*I*gw^2*alphaR02 + 2*Ta[n95,
+         lminus901,l99]*Ta[n93,l97,lminus901]*p4.pol4*p1.pol3*I*gw^2*
+         alphaR02 + 2*Ta[n95,lminus901,l99]*Ta[n93,l97,lminus901]*p1.p1
+         *pol3.pol4*I*gw^2*alphaR02 + 4*Ta[n95,lminus901,l99]*Ta[n93,
+         l97,lminus901]*p1.pol3*p1.pol4*I*gw^2*alphaR02 + 2*Ta[
+         nminus901,l97,l99]*fsu2[n95,n93,nminus901]*p3.p1*pol3.pol4*gw*
+         alphaR04 - 2*Ta[nminus901,l97,l99]*fsu2[n95,n93,nminus901]*
+         p3.p2*pol3.pol4*gw*alphaR04 + 2*Ta[nminus901,l97,l99]*fsu2[n95
+         ,n93,nminus901]*p3.pol3*p3.pol4*gw^2*alphaR02 + 2*Ta[nminus901
+         ,l97,l99]*fsu2[n95,n93,nminus901]*p3.pol3*p1.pol4*gw*alphaR04
+          - 2*Ta[nminus901,l97,l99]*fsu2[n95,n93,nminus901]*p3.pol3*
+         p2.pol4*gw*alphaR04 - 4*Ta[nminus901,l97,l99]*fsu2[n95,n93,
+         nminus901]*p3.pol4*p1.pol3*gw*alphaR04 + 4*Ta[nminus901,l97,
+         l99]*fsu2[n95,n93,nminus901]*p3.pol4*p1.pol3*gw^2*alphaR02 + 4
+         *Ta[nminus901,l97,l99]*fsu2[n95,n93,nminus901]*p3.pol4*p2.pol3
+         *gw*alphaR04 - 2*Ta[nminus901,l97,l99]*fsu2[n95,n93,nminus901]
+         *p4.p1*pol3.pol4*gw*alphaR04 + 2*Ta[nminus901,l97,l99]*fsu2[
+         n95,n93,nminus901]*p4.p2*pol3.pol4*gw*alphaR04 - 2*Ta[
+         nminus901,l97,l99]*fsu2[n95,n93,nminus901]*p4.pol3*p4.pol4*
+         gw^2*alphaR02 + 4*Ta[nminus901,l97,l99]*fsu2[n95,n93,nminus901
+         ]*p4.pol3*p1.pol4*gw*alphaR04 - 4*Ta[nminus901,l97,l99]*fsu2[
+         n95,n93,nminus901]*p4.pol3*p1.pol4*gw^2*alphaR02 - 4*Ta[
+         nminus901,l97,l99]*fsu2[n95,n93,nminus901]*p4.pol3*p2.pol4*gw*
+         alphaR04 - 2*Ta[nminus901,l97,l99]*fsu2[n95,n93,nminus901]*
+         p4.pol4*p1.pol3*gw*alphaR04 + 2*Ta[nminus901,l97,l99]*fsu2[n95
+         ,n93,nminus901]*p4.pol4*p2.pol3*gw*alphaR04 );
+
+  0.02 sec out of 0.01 sec

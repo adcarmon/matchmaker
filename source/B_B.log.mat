@@ -1,0 +1,1 @@
+amplBB =+ I*sSS^2*(p2.pol1*p2.pol2-pol1.pol2*p2.p2)*alphaSM1 + 2*I*sSS^4*alphaR7*(pol1.pol2*p2.p2*p2.p2-pol1.p2*pol2.p2*p2.p2);

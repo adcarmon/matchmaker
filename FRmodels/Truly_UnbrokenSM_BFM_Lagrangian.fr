@@ -1,0 +1,99 @@
+(***************************************************************************************************************)
+(******                       This is the FeynRules mod-file for the Unbroken Standard model              ******)
+(******                                                                                                   ******)
+(******     Authors: J. Santiago                                                                          ******)
+(******                                                                                                   ******)
+(****** Choose whether Feynman gauge is desired.                                                          ******)
+(****** If set to False, unitary gauge is assumed.                                                          ****)
+(****** Feynman gauge is especially useful for CalcHEP/CompHEP where the calculation is 10-100 times faster. ***)
+(****** Feynman gauge is not supported in MadGraph and Sherpa.                                              ****)
+(***************************************************************************************************************)
+
+(* ************************** *)
+(* *****  Information   ***** *)
+(* ************************** *)
+M$ModelName = "Truly_UnbrokenSM_BFM_Lagrangian";
+
+M$Information = {
+  Authors      -> {"J. Santiago"}, 
+  Version      -> "1.0",
+  Date         -> "17. 07. 2017",
+  Institutions -> {"CAFPE and Universidad de Granada"},
+  Emails       -> {"jsantiago@ugr.es"}
+};
+
+(* ************************** *)
+(* *****   Parameters   ***** *)
+(* ************************** *)
+M$Parameters = {
+
+  (* External parameters *)
+
+  (* Internal Parameters *)
+  lam == {
+    ParameterType    -> Internal
+  },
+  muH == {
+    ParameterType -> Internal
+  },
+  yl == {
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter  -> True
+  },
+  yu == {
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter  -> True
+  },
+  yd == {
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter  -> True
+  }
+};
+
+
+(* ************************** *)
+(* *****   Lagrangian   ***** *)
+(* ************************** *)
+
+gotoBFM={G[a__]->G[a]+GQuantum[a],Wi[a__]->Wi[a]+WiQuantum[a],B[a__]->B[a]+BQuantum[a]};
+
+LGauge := Block[{mu,nu,ii,aa}, 
+  -1/4 FS[B,mu,nu] FS[B,mu,nu] - 1/4 FS[Wi,mu,nu,ii] FS[Wi,mu,nu,ii] - 1/4 FS[G,mu,nu,aa] FS[G,mu,nu,aa]]/.gotoBFM;
+
+LFermions := Block[{mu}, 
+  I*(
+    QLbar.Ga[mu].DC[QL, mu] + LLbar.Ga[mu].DC[LL, mu] + URbar.Ga[mu].DC[UR, mu] + DRbar.Ga[mu].DC[DR, mu] + LRbar.Ga[mu].DC[LR, mu])]/.gotoBFM;
+
+
+
+LHiggs := Block[{ii,mu},
+  DC[Phibar[ii],mu] DC[Phi[ii],mu] + muH^2 Phibar[ii] Phi[ii] - lam Phibar[ii] Phi[ii] Phibar[jj] Phi[jj]]/.gotoBFM; 
+
+LYukawa := Block[{sp1,ii,jj,cc,ff1,ff2,ff3,yuk},
+  yuk =
+   -yd[ff1, ff2] QLbar[sp1, ii, ff1, cc].DR [sp1, ff2, cc] Phi[ii] - 
+    yl[ff1, ff2] LLbar[sp1, ii, ff1].LR [sp1, ff2] Phi[ii] - 
+    yu[ff1, ff2] QLbar[sp1, ii, ff1, cc].UR [sp1, ff2, cc] Phibar[jj] Eps[ii, jj];
+  yuk+HC[yuk]
+ ];
+
+
+LGhost := Block[{aa,LGh1,LGhw,LGhs,LGhphi,mu, generators,gh,ghbar,Vectorize,phi1,phi2,togoldstones,doublet,doublet0},
+  (* Pure gauge piece *) 	
+  LGh1 = -ghBbar.DC[(DC[ghB,mu]/.gotoBFM),mu];
+  LGhw = -ghWibar[aa].DC[(DC[ghWi[aa],mu]/.gotoBFM),mu];
+  LGhs = -ghGbar[aa].DC[(DC[ghG[aa],mu]/.gotoBFM),mu];
+ExpandIndices[ LGhs + LGh1 + LGhw , FlavorExpand->SU2W]];
+
+LGaugeFixing :=Block[{aa,LGFg,LGFw,LGFb},
+  LGFg = -DC[GQuantum[mu,a],mu] DC[GQuantum[nu,a],nu];
+  LGFw = -DC[WiQuantum[mu,a],mu] DC[WiQuantum[nu,a],nu];
+  LGFb = -DC[BQuantum[mu],mu] DC[BQuantum[nu],nu];
+ExpandIndices[ (LGFg + LGFw + LGFb)/2]];
+
+LSM:= LGauge + LFermions + LHiggs + LYukawa + LGhost + LGaugeFixing;
+
+Ltot:=LSM;

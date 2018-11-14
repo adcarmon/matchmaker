@@ -1,0 +1,103 @@
+(* ************************** *)
+(* *****  Information   ***** *)
+(* ************************** *)
+M$ModelName = "B0_BFM";
+
+M$Information = {
+  Authors      -> {"J. Santiago"}, 
+  Version      -> "1.0",
+  Date         -> "12. 03. 2018",
+  Institutions -> {"CAFPE and Universidad de Granada"},
+  Emails       -> {"jsantiago@ugr.es"}
+};
+
+FeynmanGauge = True;
+
+(* ************************** *)
+(* **** Particle classes **** *)
+(* ************************** *)
+M$ClassesDescription = {
+
+ V[211] == { 
+    ClassName     -> BH0, 
+    SelfConjugate -> True,
+    Mass             -> MBH0,
+    Width            -> 0
+  }
+
+};
+
+(* ************************** *)
+(* *****   Parameters   ***** *)
+(* ************************** *)
+M$Parameters = {
+
+  (* External parameters *)
+
+  (* Internal Parameters *)
+  gBH0qL == { 
+    ParameterType     -> Internal, 
+    Indices           -> {Index[Generation],Index[Generation]},
+    ComplexParameter  -> True
+  },
+
+  gBH0lL == { 
+    ParameterType     -> Internal, 
+    Indices           -> {Index[Generation],Index[Generation]},
+    ComplexParameter  -> True
+  },
+
+  gBH0uR == { 
+    ParameterType     -> Internal, 
+    Indices           -> {Index[Generation],Index[Generation]},
+    ComplexParameter  -> True
+  },
+
+  gBH0dR == { 
+    ParameterType     -> Internal, 
+    Indices           -> {Index[Generation],Index[Generation]},
+    ComplexParameter  -> True
+  },
+
+  gBH0eR == { 
+    ParameterType     -> Internal, 
+    Indices           -> {Index[Generation],Index[Generation]},
+    ComplexParameter  -> True
+  },
+
+  gBH0Phi == { 
+    ParameterType     -> Internal, 
+    ComplexParameter  -> True
+  },
+
+  MBH0 == { 
+    ParameterType     -> Internal, 
+    ComplexParameter  -> False
+  }
+
+};
+
+
+(* ************************** *)
+(* *****   Lagrangian   ***** *)
+(* ************************** *)
+
+gotoBFM={G[a__]->G[a]+GQuantum[a],Wi[a__]->Wi[a]+WiQuantum[a],B[a__]->B[a]+BQuantum[a]};
+
+LHeavy := Block[{mu,nu}, 
+  (del[BH0[nu],mu] del[BH0[mu],nu]-del[BH0[nu],mu] del[BH0[nu],mu]+MBH0^2 BH0[mu]BH0[mu])/2];
+
+LHeavylight := Block[{sp1,sp2,ii,cc,ff1,ff2,lag,lagnoh},
+  lag =
+  - gBH0qL[ff1,ff2] BH0[mu] QLbar[sp1,ii,ff1,cc].QL[sp2,ii,ff2,cc] Ga[mu,sp1,sp2]
+  - gBH0lL[ff1,ff2] BH0[mu] LLbar[sp1,ii,ff1].LL[sp2,ii,ff2] Ga[mu,sp1,sp2]
+  - gBH0uR[ff1,ff2] BH0[mu] URbar[sp1,ff1,cc].UR[sp2,ff2,cc] Ga[mu,sp1,sp2]
+  - gBH0dR[ff1,ff2] BH0[mu] DRbar[sp1,ff1,cc].DR[sp2,ff2,cc] Ga[mu,sp1,sp2]
+  - gBH0eR[ff1,ff2] BH0[mu] LRbar[sp1,ff1].LR[sp2,ff2] Ga[mu,sp1,sp2];
+  lagnoh = I gBH0Phi BH0[mu] Phibar[ii] DC[Phi[ii],mu];
+  lag+lagnoh+HC[lagnoh]
+ ];
+
+LNP := LHeavy + LHeavylight;
+
+Ltot := LSM + LNP;

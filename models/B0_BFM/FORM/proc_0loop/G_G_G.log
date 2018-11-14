@@ -1,0 +1,19 @@
+FORM 4.2.0 (Jul  6 2017, v4.2.0) 64-bits         Run: Fri Mar 16 14:49:16 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   amplGGG =
+       + p1.pol2*pol1.pol3*sSS * (  - fsu3[a99,a97,a95]*gs )
+
+       + p2.pol1*pol2.pol3*sSS * ( fsu3[a99,a97,a95]*gs )
+
+       + p3.pol1*pol2.pol3*sSS * (  - fsu3[a99,a97,a95]*gs )
+
+       + p3.pol2*pol1.pol3*sSS * ( fsu3[a99,a97,a95]*gs )
+
+       + pol1.pol2*sSS * ( fsu3[a99,a97,a95]*p1.pol3*gs - fsu3[a99,a97,
+         a95]*p2.pol3*gs );
+
+  0.01 sec out of 0.00 sec

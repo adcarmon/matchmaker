@@ -1,0 +1,240 @@
+(***************************************************************************************************************)
+(******                       This is the FeynRules mod-file for the Unbroken Standard model              ******)
+(******                                                                                                   ******)
+(******     Authors: J. Santiago                                                                          ******)
+(******                                                                                                   ******)
+(****** Choose whether Feynman gauge is desired.                                                          ******)
+(****** If set to False, unitary gauge is assumed.                                                          ****)
+(****** Feynman gauge is especially useful for CalcHEP/CompHEP where the calculation is 10-100 times faster. ***)
+(****** Feynman gauge is not supported in MadGraph and Sherpa.                                              ****)
+(***************************************************************************************************************)
+
+(* ************************** *)
+(* *****  Information   ***** *)
+(* ************************** *)
+M$ModelName = "L6SM_4F_RRRR";
+
+M$Information = {
+  Authors      -> {"J. Santiago"}, 
+  Version      -> "1.0",
+  Date         -> "16. 02. 2017",
+  Institutions -> {"CAFPE and Universidad de Granada"},
+  Emails       -> {"jsantiago@ugr.es"}
+};
+FeynmanGauge = True;
+
+
+(* ************************** *)
+(* *****   Parameters   ***** *)
+(* ************************** *)
+M$Parameters = {
+
+  (* External parameters *)
+
+  (* Internal Parameters *)
+
+  	 
+  alphaO53 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaO54 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaO55 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaO56 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaO57 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaO58 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaO59 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaF28 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+
+  alphaF29 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaF30 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaF31 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaF32 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaF33 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaE51 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaE52 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaE53 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaE54 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaE55 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaE56 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaE57 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaE58 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaE59 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaE60 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaE61 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaE62 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaE63 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  }
+
+};
+
+
+(* ************************** *)
+(* *****   Lagrangian   ***** *)
+(* ************************** *)
+
+(* Recall that Ta=sigma/2 *)
+(* Recall that T=lambda/2 *)
+(* Define sigma[mu,nu]= I/2 [gamma(mu),gamma(nu)] *)
+sigmamunu[mu_,nu_,sp_,sp2_]:=Module[{sp1},(I/2)*(Ga[mu,sp,sp1]*Ga[nu,sp1,sp2]-Ga[nu,sp,sp1]*Ga[mu,sp1,sp2])];
+gamma3[mu_,nu_,rho_,sp1_,sp4_]:=Module[{sp2,sp3},Ga[mu,sp1,sp2]*Ga[nu,sp2,sp3]*Ga[rho,sp3,sp4]];
+
+LF4RRRR := Block[{lag,lagnoh,ff1,ff2,ff3,ff4,sp1,sp2,sp3,sp4,ii,jj,ii1,jj1,cc1,cc2,cc3,cc4,aa,mu,nu,rho,a},
+      lag= ExpandIndices[
+           alphaO53[ff1,ff2,ff3,ff4]*(LRbar[sp1,ff1].LR[sp2,ff2])*(LRbar[sp3,ff3].LR[sp4,ff4])*Ga[mu,sp1,sp2]*Ga[mu,sp3,sp4]
+          +alphaO54[ff1,ff2,ff3,ff4]*(URbar[sp1,ff1,cc1].UR[sp2,ff2,cc1])*(URbar[sp3,ff3,cc2].UR[sp4,ff4,cc2])*Ga[mu,sp1,sp2]*Ga[mu,sp3,sp4]
+          +alphaO55[ff1,ff2,ff3,ff4]*(DRbar[sp1,ff1,cc1].DR[sp2,ff2,cc1])*(DRbar[sp3,ff3,cc2].DR[sp4,ff4,cc2])*Ga[mu,sp1,sp2]*Ga[mu,sp3,sp4]
+          +alphaO56[ff1,ff2,ff3,ff4]*(LRbar[sp1,ff1].LR[sp2,ff2])*(URbar[sp3,ff3,cc2].UR[sp4,ff4,cc2])*Ga[mu,sp1,sp2]*Ga[mu,sp3,sp4]
+          +alphaO57[ff1,ff2,ff3,ff4]*(LRbar[sp1,ff1].LR[sp2,ff2])*(DRbar[sp3,ff3,cc2].DR[sp4,ff4,cc2])*Ga[mu,sp1,sp2]*Ga[mu,sp3,sp4]
+          +alphaO58[ff1,ff2,ff3,ff4]*(URbar[sp1,ff1,cc1].UR[sp2,ff2,cc1])*(DRbar[sp3,ff3,cc2].DR[sp4,ff4,cc2])*Ga[mu,sp1,sp2]*Ga[mu,sp3,sp4]
+          +alphaO59[ff1,ff2,ff3,ff4]*(URbar[sp1,ff1,cc1].UR[sp2,ff2,cc2])*(DRbar[sp3,ff3,cc3].DR[sp4,ff4,cc4])*Ga[mu,sp1,sp2]*Ga[mu,sp3,sp4]*T[aa,cc1,cc2]*T[aa,cc3,cc4]
+          +alphaF28[ff1,ff2,ff3,ff4]*(URbar[sp1,ff1,cc1].UR[sp2,ff2,cc2])*(URbar[sp3,ff3,cc3].UR[sp4,ff4,cc4])*Ga[mu,sp1,sp2]*Ga[mu,sp3,sp4]*T[aa,cc1,cc2]*T[aa,cc3,cc4]
+          +alphaF29[ff1,ff2,ff3,ff4]*(DRbar[sp1,ff1,cc1].DR[sp2,ff2,cc2])*(DRbar[sp3,ff3,cc3].DR[sp4,ff4,cc4])*Ga[mu,sp1,sp2]*Ga[mu,sp3,sp4]*T[aa,cc1,cc2]*T[aa,cc3,cc4]
+          +alphaF30[ff1,ff2,ff3,ff4]*(LRbar[sp1,ff1].UR[sp2,ff2,cc2])*(URbar[sp3,ff3,cc2].LR[sp4,ff4])*Ga[mu,sp1,sp2]*Ga[mu,sp3,sp4]
+          +alphaF31[ff1,ff2,ff3,ff4]*(LRbar[sp1,ff1].DR[sp2,ff2,cc2])*(DRbar[sp3,ff3,cc2].LR[sp4,ff4])*Ga[mu,sp1,sp2]*Ga[mu,sp3,sp4]
+          +alphaF32[ff1,ff2,ff3,ff4]*(URbar[sp1,ff1,cc1].DR[sp2,ff2,cc1])*(DRbar[sp3,ff3,cc2].UR[sp4,ff4,cc2])*Ga[mu,sp1,sp2]*Ga[mu,sp3,sp4]
+          +alphaF33[ff1,ff2,ff3,ff4]*(URbar[sp1,ff1,cc1].DR[sp2,ff2,cc2])*(DRbar[sp3,ff3,cc3].UR[sp4,ff4,cc4])*Ga[mu,sp1,sp2]*Ga[mu,sp3,sp4]*T[aa,cc1,cc2]*T[aa,cc3,cc4]
+          +alphaE51[ff1,ff2,ff3,ff4]*(LRbar[sp1,ff1].LR[sp2,ff2])*(LRbar[sp3,ff3].LR[sp4,ff4])*gamma3[mu,nu,rho,sp1,sp2]*gamma3[mu,nu,rho,sp3,sp4]
+          +alphaE52[ff1,ff2,ff3,ff4]*(URbar[sp1,ff1,cc1].UR[sp2,ff2,cc1])*(URbar[sp3,ff3,cc2].UR[sp4,ff4,cc2])*gamma3[mu,nu,rho,sp1,sp2]*gamma3[mu,nu,rho,sp3,sp4]
+          +alphaE53[ff1,ff2,ff3,ff4]*(DRbar[sp1,ff1,cc1].DR[sp2,ff2,cc1])*(DRbar[sp3,ff3,cc2].DR[sp4,ff4,cc2])*gamma3[mu,nu,rho,sp1,sp2]*gamma3[mu,nu,rho,sp3,sp4]
+          +alphaE54[ff1,ff2,ff3,ff4]*(LRbar[sp1,ff1].LR[sp2,ff2])*(URbar[sp3,ff3,cc2].UR[sp4,ff4,cc2])*gamma3[mu,nu,rho,sp1,sp2]*gamma3[mu,nu,rho,sp3,sp4]
+          +alphaE55[ff1,ff2,ff3,ff4]*(LRbar[sp1,ff1].LR[sp2,ff2])*(DRbar[sp3,ff3,cc2].DR[sp4,ff4,cc2])*gamma3[mu,nu,rho,sp1,sp2]*gamma3[mu,nu,rho,sp3,sp4]
+          +alphaE56[ff1,ff2,ff3,ff4]*(URbar[sp1,ff1,cc1].UR[sp2,ff2,cc1])*(DRbar[sp3,ff3,cc2].DR[sp4,ff4,cc2])*gamma3[mu,nu,rho,sp1,sp2]*gamma3[mu,nu,rho,sp3,sp4]
+          +alphaE57[ff1,ff2,ff3,ff4]*(URbar[sp1,ff1,cc1].UR[sp2,ff2,cc2])*(DRbar[sp3,ff3,cc3].DR[sp4,ff4,cc4])*gamma3[mu,nu,rho,sp1,sp2]*gamma3[mu,nu,rho,sp3,sp4]*T[aa,cc1,cc2]*T[aa,cc3,cc4]
+          +alphaE58[ff1,ff2,ff3,ff4]*(URbar[sp1,ff1,cc1].UR[sp2,ff2,cc2])*(URbar[sp3,ff3,cc3].UR[sp4,ff4,cc4])*gamma3[mu,nu,rho,sp1,sp2]*gamma3[mu,nu,rho,sp3,sp4]*T[aa,cc1,cc2]*T[aa,cc3,cc4]
+          +alphaE59[ff1,ff2,ff3,ff4]*(DRbar[sp1,ff1,cc1].DR[sp2,ff2,cc2])*(DRbar[sp3,ff3,cc3].DR[sp4,ff4,cc4])*gamma3[mu,nu,rho,sp1,sp2]*gamma3[mu,nu,rho,sp3,sp4]*T[aa,cc1,cc2]*T[aa,cc3,cc4]
+          +alphaE60[ff1,ff2,ff3,ff4]*(LRbar[sp1,ff1].UR[sp2,ff2,cc2])*(URbar[sp3,ff3,cc2].LR[sp4,ff4])*gamma3[mu,nu,rho,sp1,sp2]*gamma3[mu,nu,rho,sp3,sp4]
+          +alphaE61[ff1,ff2,ff3,ff4]*(LRbar[sp1,ff1].DR[sp2,ff2,cc2])*(DRbar[sp3,ff3,cc2].LR[sp4,ff4])*gamma3[mu,nu,rho,sp1,sp2]*gamma3[mu,nu,rho,sp3,sp4]
+          +alphaE62[ff1,ff2,ff3,ff4]*(URbar[sp1,ff1,cc1].DR[sp2,ff2,cc1])*(DRbar[sp3,ff3,cc2].UR[sp4,ff4,cc2])*gamma3[mu,nu,rho,sp1,sp2]*gamma3[mu,nu,rho,sp3,sp4]
+          +alphaE63[ff1,ff2,ff3,ff4]*(URbar[sp1,ff1,cc1].DR[sp2,ff2,cc2])*(DRbar[sp3,ff3,cc3].UR[sp4,ff4,cc4])*gamma3[mu,nu,rho,sp1,sp2]*gamma3[mu,nu,rho,sp3,sp4]*T[aa,cc1,cc2]*T[aa,cc3,cc4]
+	  ,FlavorExpand->SU2D];
+	  lag
+];
+
+
+Ltot:= LF4RRRR;
+

@@ -1,0 +1,22 @@
+
+ output= 'OUTPUTFILE' ;
+
+ style= 'my.sty' ;
+
+ model= 'THEMODEL';
+
+ in= LISTOFPARTICLES;
+
+ out=;
+
+ loops= 1;
+
+ loop_momentum= k;
+
+ options= ;
+
+ true = bridge[MASSLESSPARTICLES, 0 , 0];
+
+ false = chord[MASSIVEPARTICLES, 0,  0];
+
+ true = chord[BACKGROUNDPARTICLES, 0,  0];

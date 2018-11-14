@@ -1,0 +1,21 @@
+
+ output= 'OUTPUTFILE' ;
+
+ style= '/home/adrian/.local/lib/python2.7/s'
+'ite-packages/matchmaker/core/my.sty' ;
+
+ model= 'model';
+
+ in= qLbar,qL,B;
+
+ out=;
+
+ loops= 0;
+
+ loop_momentum= k;
+
+ options= ;
+
+ true = bridge[G, Wi, B, GQuantum, WiQuantum, BQuantum, ghG,
+ghWi, ghB, lL, eR, qL, uR, dR, Phi, 0 , 0];
+

@@ -1,0 +1,31 @@
+FORM 4.2.0 (Jul  6 2017, v4.2.0) 64-bits         Run: Tue Apr  3 00:22:13 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   amplPhibarWiBPhi =
+       + p2.pol2*sSS^2 * ( 2*Ta[n97,l99,l93]*p2.pol3*I*g1*alphaR04 + 
+         Ta[n97,l99,l93]*p2.pol3*I*g1*gw*alphaR02 + Ta[n97,l99,l93]*
+         p3.pol3*I*g1*gw*alphaR02 + 2*Ta[n97,l99,l93]*p4.pol3*I*g1*gw*
+         alphaR02 )
+
+       + p3.pol2*sSS^2 * ( 4*Ta[n97,l99,l93]*p2.pol3*I*alphaO10 + 2*Ta[
+         n97,l99,l93]*p3.pol3*I*gw*alphaR03 + Ta[n97,l99,l93]*p3.pol3*I
+         *g1*gw*alphaR02 + 2*Ta[n97,l99,l93]*p4.pol3*I*g1*gw*alphaR02 )
+
+       + p4.pol2*sSS^2 * ( 2*Ta[n97,l99,l93]*p2.pol3*I*g1*gw*alphaR02
+          + 2*Ta[n97,l99,l93]*p3.pol3*I*g1*gw*alphaR02 + 4*Ta[n97,l99,
+         l93]*p4.pol3*I*g1*gw*alphaR02 )
+
+       + pol2.pol3*sSS^2 * (  - 2*Ta[n97,l99,l93]*p2.p2*I*g1*alphaR04
+          + Ta[n97,l99,l93]*p2.p2*I*g1*gw*alphaR02 - 4*Ta[n97,l99,l93]*
+         p2.p3*I*alphaO10 + 2*Ta[n97,l99,l93]*p2.p3*I*g1*gw*alphaR02 + 
+         2*Ta[n97,l99,l93]*p2.p4*I*g1*gw*alphaR02 - 2*Ta[n97,l99,l93]*
+         p3.p3*I*gw*alphaR03 + Ta[n97,l99,l93]*p3.p3*I*g1*gw*alphaR02
+          + 2*Ta[n97,l99,l93]*p3.p4*I*g1*gw*alphaR02 + 2*Ta[n97,l99,l93
+         ]*p4.p4*I*g1*gw*alphaR02 )
+
+       + e_[p2,p3,pol2,pol3]*sSS^2 * ( 4*Ta[n97,l99,l93]*I*alphaO11 );
+
+  0.01 sec out of 0.00 sec

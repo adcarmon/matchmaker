@@ -1,0 +1,1 @@
+amplGGG =+ p1.pol2*pol1.pol3*sSS * (  - fsu3[a99,a97,a95]*gs )+ p2.pol1*pol2.pol3*sSS * ( fsu3[a99,a97,a95]*gs )+ p3.pol1*pol2.pol3*sSS * (  - fsu3[a99,a97,a95]*gs )+ p3.pol2*pol1.pol3*sSS * ( fsu3[a99,a97,a95]*gs )+ pol1.pol2*sSS * ( fsu3[a99,a97,a95]*p1.pol3*gs - fsu3[a99,a97,a95]*p2.pol3*gs );

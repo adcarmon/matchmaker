@@ -1,0 +1,177 @@
+(***************************************************************************************************************)
+(******                       This is the FeynRules mod-file for the Unbroken Standard model              ******)
+(******                                                              with arbitrary coefficients          ******)
+(******                                                                                                   ******)
+(******     Authors: J. Santiago                                                                          ******)
+(******                                                                                                   ******)
+(****** Choose whether Feynman gauge is desired.                                                          ******)
+(****** If set to False, unitary gauge is assumed.                                                          ****)
+(****** Feynman gauge is especially useful for CalcHEP/CompHEP where the calculation is 10-100 times faster. ***)
+(****** Feynman gauge is not supported in MadGraph and Sherpa.                                              ****)
+(***************************************************************************************************************)
+
+(* ************************** *)
+(* *****  Information   ***** *)
+(* ************************** *)
+M$ModelName = "L4SM";
+
+M$Information = {
+  Authors      -> {"J. Santiago"}, 
+  Version      -> "1.1",
+  Date         -> "4. 06. 2017",
+  Institutions -> {"CAFPE and Universidad de Granada"},
+  Emails       -> {"jsantiago@ugr.es"}
+};
+
+FeynmanGauge = True;
+
+(* ************************** *)
+(* ************************** *)
+(* ************************** *)
+(* ************************** *)
+(* ************************** *)
+
+
+(* ************************** *)
+(* *****   Parameters   ***** *)
+(* ************************** *)
+M$Parameters = {
+
+  (* External parameters *)
+
+  (* Internal Parameters *)
+  alphaS01 == {
+    ParameterType -> Internal
+  },
+
+  alphaS02 == {
+    ParameterType -> Internal
+  },
+
+  alphaS03 == {
+    ParameterType -> Internal
+  },
+
+  alphaS04 == {
+    ParameterType -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter -> True
+  },
+
+  alphaS05 == {
+    ParameterType -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter -> True
+  },
+
+  alphaS06 == {
+    ParameterType -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter -> True
+  },
+
+  alphaS07 == {
+    ParameterType -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter -> True
+  },
+
+  alphaS08 == {
+    ParameterType -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter -> True
+  },
+
+  alphaS09 == {
+    ParameterType -> Internal
+  },
+
+  alphaS10 == {
+    ParameterType -> Internal
+  },
+
+  alphaS11 == {
+    ParameterType -> Internal
+  },
+
+  alphaS12 == {
+    ParameterType -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter -> True
+  },
+
+  alphaS13 == {
+    ParameterType -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter -> True
+  },
+
+  alphaS14 == {
+    ParameterType -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter -> True
+  },
+
+  alphaS15 == {
+    ParameterType -> Internal
+  },
+
+  alphaS16 == {
+    ParameterType -> Internal
+  },
+
+  alphaS17 == {
+    ParameterType -> Internal
+  }
+
+};
+
+
+(* ************************** *)
+(* *****   Lagrangian   ***** *)
+(* ************************** *)
+
+
+
+L4Gauge := Block[{mu,nu,ii,aa}, 
+  ExpandIndices[-1/4 alphaS01 FS[B,mu,nu] FS[B,mu,nu] - 1/4 alphaS02 FS[Wi,mu,nu,ii] FS[Wi,mu,nu,ii] - 1/4 alphaS03 FS[G,mu,nu,aa] FS[G,mu,nu,aa], FlavorExpand->SU2W]];
+
+L4Fermions := Block[{mu,sp1,sp2,ff1,ff2,cc,ii}, 
+  ExpandIndices[I*(
+     alphaS04[ff1,ff2] Ga[mu,sp1,sp2]  QLbar[sp1,ii,ff1,cc].DC[QL[sp2,ii,ff2,cc], mu] 
+    +alphaS05[ff1,ff2] Ga[mu,sp1,sp2]  LLbar[sp1,ii,ff1].DC[LL[sp2,ii,ff2], mu] 
+    +alphaS06[ff1,ff2] Ga[mu,sp1,sp2]  URbar[sp1,ff1,cc].DC[UR[sp2,ff2,cc], mu] 
+    +alphaS07[ff1,ff2] Ga[mu,sp1,sp2]  DRbar[sp1,ff1,cc].DC[DR[sp2,ff2,cc], mu] 
+    +alphaS08[ff1,ff2] Ga[mu,sp1,sp2]  LRbar[sp1,ff1].DC[LR[sp2,ff2], mu]), 
+  FlavorExpand->{SU2W,SU2D}]];
+
+
+
+L4Higgs := Block[{ii,mu, feynmangaugerules},
+  feynmangaugerules = If[Not[FeynmanGauge], {G0|GP|GPbar ->0}, {}]; 
+  ExpandIndices[alphaS09 DC[Phibar[ii],mu] DC[Phi[ii],mu] +alphaSM10 Phibar[ii] Phi[ii] -alphaS11 Phibar[ii] Phi[ii] Phibar[jj] Phi[jj], FlavorExpand->{SU2D,SU2W}]/.feynmangaugerules 
+ ]; 
+
+L4Yukawa := Block[{sp,ii,jj,cc,ff1,ff2,ff3,yuk,feynmangaugerules},
+  feynmangaugerules = If[Not[FeynmanGauge], {G0|GP|GPbar ->0}, {}];
+ 
+  yuk = ExpandIndices[
+   -alphaS12[ff1,ff2] QLbar[sp, ii, ff1, cc].DR [sp, ff2, cc] Phi[ii] - 
+    alphaS13[ff1,ff2] LLbar[sp, ii, ff1].LR [sp, ff2] Phi[ii] - 
+    alphaS14[ff1,ff2] QLbar[sp, ii, ff1, cc].UR [sp, ff2, cc] Phibar[jj] Eps[ii, jj], FlavorExpand -> SU2D];
+  yuk+HC[yuk]/.feynmangaugerules
+ ];
+
+
+L4Ghost := Block[{LGh1,LGhw,LGhs,LGhphi,mu, generators,gh,ghbar,Vectorize,phi1,phi2,togoldstones,doublet,doublet0},
+  (* Pure gauge piece *) 	
+  LGh1 = -alphaS15 ghBbar.del[DC[ghB,mu],mu];
+  LGhw = -alphaS16 ghwibar.del[DC[ghwi,mu],mu];
+  LGhs = -alphaS17 ghGbar.del[DC[ghG,mu],mu];
+
+
+ExpandIndices[ LGhs + LGh1 + LGhw , FlavorExpand->SU2W]];
+
+Ltot:= L4Gauge + L4Fermions + L4Higgs + L4Yukawa + L4Ghost;
+
+

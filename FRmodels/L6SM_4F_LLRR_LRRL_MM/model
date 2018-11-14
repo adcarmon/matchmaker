@@ -1,0 +1,27 @@
+* propagators
+
+  [G, G, +]
+  [Wi, Wi, +]
+  [B, B, +]
+  [GQuantum, GQuantum, +]
+  [WiQuantum, WiQuantum, +]
+  [BQuantum, BQuantum, +]
+  [ghG, ghGbar, -]
+  [ghWi, ghWibar, -]
+  [ghB, ghBbar, -]
+  [lL, lLbar, -]
+  [eR, eRbar, -]
+  [qL, qLbar, -]
+  [uR, uRbar, -]
+  [dR, dRbar, -]
+  [Phi, Phibar, +]
+
+* vertices
+[dRbar,dR,lLbar,lL]
+[eRbar,eR,lLbar,lL]
+[lLbar,lL,uRbar,uR]
+[dRbar,eR,lLbar,qL]
+[dRbar,dR,qLbar,qL]
+[eRbar,eR,qLbar,qL]
+[qLbar,qL,uRbar,uR]
+[eRbar,dR,qLbar,lL]

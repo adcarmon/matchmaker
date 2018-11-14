@@ -1,0 +1,13 @@
+FORM 4.2.0 (Jul  6 2017, v4.2.0) 64-bits         Run: Mon Mar 12 22:59:32 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   amplqLbarqLWi =
+       - 1/2*Ta[n95,l99,l97]*gam[y99,FIVE,pol3,y97]*uspin[p2,y97]*
+         vbspin[p1,y99]*d_(m99,m97)*d_(f99,f97)*I*gw - 1/2*Ta[n95,l99,
+         l97]*gam[y99,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*
+         d_(m99,m97)*d_(f99,f97)*I*gw;
+
+  0.01 sec out of 0.01 sec

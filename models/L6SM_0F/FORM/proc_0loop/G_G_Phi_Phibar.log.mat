@@ -1,0 +1,1 @@
+amplGGPhiPhibar =+ p1.pol2*p2.pol1*sSS^2 * ( 4*dd[a99,a97]*dd[l95,l93]*I*alphaO04)+ pol1.pol2*sSS^2 * (  - 4*dd[a99,a97]*dd[l95,l93]*p1.p2*I*alphaO04 )+ ee[p1,p2,pol1,pol2]*sSS^2 * ( 4*dd[a99,a97]*dd[l95,l93]*I*alphaO05 );

@@ -1,0 +1,41 @@
+FORM 4.2.0 (Jul  6 2017, v4.2.0) 64-bits         Run: Tue Apr  3 12:31:17 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   ampluRbaruRPhibarPhi =
+       + sSS * (  - 1/4*Log[MHT^2]*lamprime[f4]*yu[f6,f97]*lamprimebar[
+         f6]*yubar[f4,f99]*gam[y99,FIVE,p2,y97]*uspin[p2,y97]*vbspin[p1
+         ,y99]*e_[l2,l4]*e_[l2,l6]*e_[l4,l95]*e_[l6,l93]*d_(m99,m97)*
+         FourPi^(-2)*I^9*MHT^(-2) - 1/4*Log[MHT^2]*lamprime[f4]*yu[f6,
+         f97]*lamprimebar[f6]*yubar[f4,f99]*gam[y99,FIVE,p3,y97]*uspin[
+         p2,y97]*vbspin[p1,y99]*e_[l2,l4]*e_[l2,l6]*e_[l4,l95]*e_[l6,
+         l93]*d_(m99,m97)*FourPi^(-2)*I^9*MHT^(-2) + 1/4*Log[MHT^2]*
+         lamprime[f4]*yu[f6,f97]*lamprimebar[f6]*yubar[f4,f99]*gam[y99,
+         p2,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l2,l4]*e_[l2,l6]*e_[l4
+         ,l95]*e_[l6,l93]*d_(m99,m97)*FourPi^(-2)*I^9*MHT^(-2) + 1/4*
+         Log[MHT^2]*lamprime[f4]*yu[f6,f97]*lamprimebar[f6]*yubar[f4,
+         f99]*gam[y99,p3,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[l2,l4]*
+         e_[l2,l6]*e_[l4,l95]*e_[l6,l93]*d_(m99,m97)*FourPi^(-2)*I^9*
+         MHT^(-2) - 1/4*lamprime[f4]*yu[f6,f97]*lamprimebar[f6]*yubar[
+         f4,f99]*gam[y99,FIVE,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*e_[
+         l2,l4]*e_[l2,l6]*e_[l4,l95]*e_[l6,l93]*d_(m99,m97)*FourPi^(-2)
+         *I^9*MHT^(-2) + 1/8*lamprime[f4]*yu[f6,f97]*lamprimebar[f6]*
+         yubar[f4,f99]*gam[y99,FIVE,p2,y97]*uspin[p2,y97]*vbspin[p1,y99
+         ]*e_[l2,l4]*e_[l2,l6]*e_[l4,l95]*e_[l6,l93]*d_(m99,m97)*
+         FourPi^(-2)*I^9*MHT^(-2) - 1/8*lamprime[f4]*yu[f6,f97]*
+         lamprimebar[f6]*yubar[f4,f99]*gam[y99,FIVE,p3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l2,l4]*e_[l2,l6]*e_[l4,l95]*e_[l6,l93]*
+         d_(m99,m97)*FourPi^(-2)*I^9*MHT^(-2) + 1/4*lamprime[f4]*yu[f6,
+         f97]*lamprimebar[f6]*yubar[f4,f99]*gam[y99,p1,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l2,l4]*e_[l2,l6]*e_[l4,l95]*e_[l6,l93]*
+         d_(m99,m97)*FourPi^(-2)*I^9*MHT^(-2) - 1/8*lamprime[f4]*yu[f6,
+         f97]*lamprimebar[f6]*yubar[f4,f99]*gam[y99,p2,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l2,l4]*e_[l2,l6]*e_[l4,l95]*e_[l6,l93]*
+         d_(m99,m97)*FourPi^(-2)*I^9*MHT^(-2) + 1/8*lamprime[f4]*yu[f6,
+         f97]*lamprimebar[f6]*yubar[f4,f99]*gam[y99,p3,y97]*uspin[p2,
+         y97]*vbspin[p1,y99]*e_[l2,l4]*e_[l2,l6]*e_[l4,l95]*e_[l6,l93]*
+         d_(m99,m97)*FourPi^(-2)*I^9*MHT^(-2) );
+
+  0.02 sec out of 0.01 sec

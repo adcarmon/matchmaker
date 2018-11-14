@@ -1,0 +1,20 @@
+FORM 4.2.0 (Jul  6 2017, v4.2.0) 64-bits         Run: Tue Apr  3 12:30:55 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   amplGG =
+       + p1.pol1*p1.pol2*sSS^2 * (  - 4/3*Log[MHT^2]*T[a99,m4,m2]*T[a97
+         ,m2,m4]*FourPi^(-2)*I^5*gs^2 )
+
+       + p1.pol1*p1.pol2*sSS^4 * ( 4/15*T[a99,m4,m2]*T[a97,m2,m4]*p1.p1
+         *FourPi^(-2)*I^5*gs^2*MHT^(-2) )
+
+       + pol1.pol2*sSS^2 * ( 4/3*Log[MHT^2]*T[a99,m4,m2]*T[a97,m2,m4]*
+         p1.p1*FourPi^(-2)*I^5*gs^2 )
+
+       + pol1.pol2*sSS^4 * (  - 4/15*T[a99,m4,m2]*T[a97,m2,m4]*p1.p1^2*
+         FourPi^(-2)*I^5*gs^2*MHT^(-2) );
+
+  0.41 sec out of 0.41 sec

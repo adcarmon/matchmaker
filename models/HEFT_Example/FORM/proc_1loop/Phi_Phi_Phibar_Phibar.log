@@ -1,0 +1,190 @@
+FORM 4.2.0 (Jul  6 2017, v4.2.0) 64-bits         Run: Fri Mar  2 17:49:36 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   amplPhiPhiPhibarPhibar =
+       + sSS^2 * ( 3*Log[MHT^2]*lamprime[f2]*yu[f8,f4]*lamprimebar[f8]*
+         yubar[f2,f4]*e_[l99,l2]*e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*p1.p3
+         *FourPi^(-2)*I^9*MHT^(-2) - 3*Log[MHT^2]*lamprime[f2]*yu[f8,f4
+         ]*lamprimebar[f8]*yubar[f2,f4]*e_[l99,l2]*e_[l97,l8]*e_[l95,l2
+         ]*e_[l93,l8]*p3.p4*FourPi^(-2)*I^9*MHT^(-2) - 3*Log[MHT^2]*
+         lamprime[f2]*yu[f8,f4]*lamprimebar[f8]*yubar[f2,f4]*e_[l99,l2]
+         *e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*p4.p4*FourPi^(-2)*I^9*
+         MHT^(-2) - 3*Log[MHT^2]*lamprime[f6]*yu[f4,f8]*lamprimebar[f4]
+         *yubar[f6,f8]*e_[l99,l4]*e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*
+         p1.p3*FourPi^(-2)*I^9*MHT^(-2) - 3*Log[MHT^2]*lamprime[f6]*yu[
+         f4,f8]*lamprimebar[f4]*yubar[f6,f8]*e_[l99,l4]*e_[l97,l6]*e_[
+         l95,l6]*e_[l93,l4]*p3.p3*FourPi^(-2)*I^9*MHT^(-2) - 6*Log[
+         MHT^2]*lamprime[f6]*yu[f4,f8]*lamprimebar[f4]*yubar[f6,f8]*e_[
+         l99,l4]*e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*p3.p4*FourPi^(-2)*I^9
+         *MHT^(-2) - 3*Log[MHT^2]*lamprime[f6]*yu[f4,f8]*lamprimebar[f4
+         ]*yubar[f6,f8]*e_[l99,l4]*e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*
+         p4.p4*FourPi^(-2)*I^9*MHT^(-2) - 3*Log[MHT^2]*lamprime[f8]*yd[
+         f2,f6]*lamprimebar[f2]*ydbar[f8,f6]*e_[l99,l97]*e_[l95,l93]*
+         p1.p3*FourPi^(-2)*I^9*MHT^(-2) + 3*Log[MHT^2]*lamprime[f8]*yd[
+         f2,f6]*lamprimebar[f2]*ydbar[f8,f6]*e_[l99,l97]*e_[l95,l93]*
+         p1.p4*FourPi^(-2)*I^9*MHT^(-2) - 6*Log[MHT^2]*lamprime[f8]*yd[
+         f2,f6]*lamprimebar[f2]*ydbar[f8,f6]*e_[l99,l97]*e_[l95,l93]*
+         p2.p3*FourPi^(-2)*I^9*MHT^(-2) + 6*Log[MHT^2]*lamprime[f8]*yd[
+         f2,f6]*lamprimebar[f2]*ydbar[f8,f6]*e_[l99,l97]*e_[l95,l93]*
+         p2.p4*FourPi^(-2)*I^9*MHT^(-2) - 3*Log[MHT^2]*lamprime[f8]*yd[
+         f2,f6]*lamprimebar[f2]*ydbar[f8,f6]*e_[l99,l97]*e_[l95,l93]*
+         p3.p3*FourPi^(-2)*I^9*MHT^(-2) + 3*Log[MHT^2]*lamprime[f8]*yd[
+         f2,f6]*lamprimebar[f2]*ydbar[f8,f6]*e_[l99,l97]*e_[l95,l93]*
+         p4.p4*FourPi^(-2)*I^9*MHT^(-2) - 3*Log[MHT^2]*lamprime[f8]*yd[
+         f2,f4]*lamprimebar[f2]*ydbar[f8,f4]*e_[l99,l97]*e_[l95,l93]*
+         p2.p3*FourPi^(-2)*I^9*MHT^(-2) + 3*Log[MHT^2]*lamprime[f8]*yd[
+         f2,f4]*lamprimebar[f2]*ydbar[f8,f4]*e_[l99,l97]*e_[l95,l93]*
+         p2.p4*FourPi^(-2)*I^9*MHT^(-2) - 3*Log[MHT^2]*lamprime[f8]*yd[
+         f2,f4]*lamprimebar[f2]*ydbar[f8,f4]*e_[l99,l97]*e_[l95,l93]*
+         p3.p3*FourPi^(-2)*I^9*MHT^(-2) + 3*Log[MHT^2]*lamprime[f8]*yd[
+         f2,f4]*lamprimebar[f2]*ydbar[f8,f4]*e_[l99,l97]*e_[l95,l93]*
+         p4.p4*FourPi^(-2)*I^9*MHT^(-2) - 3*Log[MHT^2]*lamprime[f8]*yu[
+         f2,f6]*lamprimebar[f2]*yubar[f8,f6]*e_[l99,l2]*e_[l97,l8]*e_[
+         l95,l2]*e_[l93,l8]*p1.p4*FourPi^(-2)*I^9*MHT^(-2) - 3*Log[
+         MHT^2]*lamprime[f8]*yu[f2,f6]*lamprimebar[f2]*yubar[f8,f6]*e_[
+         l99,l2]*e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*p3.p3*FourPi^(-2)*I^9
+         *MHT^(-2) - 6*Log[MHT^2]*lamprime[f8]*yu[f2,f6]*lamprimebar[f2
+         ]*yubar[f8,f6]*e_[l99,l2]*e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*
+         p3.p4*FourPi^(-2)*I^9*MHT^(-2) - 3*Log[MHT^2]*lamprime[f8]*yu[
+         f2,f6]*lamprimebar[f2]*yubar[f8,f6]*e_[l99,l2]*e_[l97,l8]*e_[
+         l95,l2]*e_[l93,l8]*p4.p4*FourPi^(-2)*I^9*MHT^(-2) + 3*Log[
+         MHT^2]*lamprime[f4]*yu[f6,f2]*lamprimebar[f6]*yubar[f4,f2]*e_[
+         l99,l4]*e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*p1.p4*FourPi^(-2)*I^9
+         *MHT^(-2) - 3*Log[MHT^2]*lamprime[f4]*yu[f6,f2]*lamprimebar[f6
+         ]*yubar[f4,f2]*e_[l99,l4]*e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*
+         p3.p3*FourPi^(-2)*I^9*MHT^(-2) - 3*Log[MHT^2]*lamprime[f4]*yu[
+         f6,f2]*lamprimebar[f6]*yubar[f4,f2]*e_[l99,l4]*e_[l97,l6]*e_[
+         l95,l6]*e_[l93,l4]*p3.p4*FourPi^(-2)*I^9*MHT^(-2) - lamprime[
+         f2]*lamprime[f8]*lamprimebar[f2]*lamprimebar[f8]*e_[l99,l2]*
+         e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*p1.p1*FourPi^(-2)*I^9*
+         MHT^(-2) - 1/2*lamprime[f2]*lamprime[f8]*lamprimebar[f2]*
+         lamprimebar[f8]*e_[l99,l2]*e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*
+         p1.p3*FourPi^(-2)*I^9*MHT^(-2) - 3/2*lamprime[f2]*lamprime[f8]
+         *lamprimebar[f2]*lamprimebar[f8]*e_[l99,l2]*e_[l97,l8]*e_[l95,
+         l2]*e_[l93,l8]*p1.p4*FourPi^(-2)*I^9*MHT^(-2) - 5/2*lamprime[
+         f2]*lamprime[f8]*lamprimebar[f2]*lamprimebar[f8]*e_[l99,l2]*
+         e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*p3.p3*FourPi^(-2)*I^9*
+         MHT^(-2) - 9/2*lamprime[f2]*lamprime[f8]*lamprimebar[f2]*
+         lamprimebar[f8]*e_[l99,l2]*e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*
+         p3.p4*FourPi^(-2)*I^9*MHT^(-2) - 3*lamprime[f2]*lamprime[f8]*
+         lamprimebar[f2]*lamprimebar[f8]*e_[l99,l2]*e_[l97,l8]*e_[l95,
+         l2]*e_[l93,l8]*p4.p4*FourPi^(-2)*I^9*MHT^(-2) - 3*lamprime[f2]
+         *yu[f8,f4]*lamprimebar[f8]*yubar[f2,f4]*e_[l99,l2]*e_[l97,l8]*
+         e_[l95,l2]*e_[l93,l8]*p1.p1*FourPi^(-2)*I^9*MHT^(-2) - 21/2*
+         lamprime[f2]*yu[f8,f4]*lamprimebar[f8]*yubar[f2,f4]*e_[l99,l2]
+         *e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*p1.p3*FourPi^(-2)*I^9*
+         MHT^(-2) - 3*lamprime[f2]*yu[f8,f4]*lamprimebar[f8]*yubar[f2,
+         f4]*e_[l99,l2]*e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*p1.p4*
+         FourPi^(-2)*I^9*MHT^(-2) - 6*lamprime[f2]*yu[f8,f4]*
+         lamprimebar[f8]*yubar[f2,f4]*e_[l99,l2]*e_[l97,l8]*e_[l95,l2]*
+         e_[l93,l8]*p3.p3*FourPi^(-2)*I^9*MHT^(-2) - 3/2*lamprime[f2]*
+         yu[f8,f4]*lamprimebar[f8]*yubar[f2,f4]*e_[l99,l2]*e_[l97,l8]*
+         e_[l95,l2]*e_[l93,l8]*p3.p4*FourPi^(-2)*I^9*MHT^(-2) + 3/2*
+         lamprime[f2]*yu[f8,f4]*lamprimebar[f8]*yubar[f2,f4]*e_[l99,l2]
+         *e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*p4.p4*FourPi^(-2)*I^9*
+         MHT^(-2) - lamprime[f6]*lamprime[f4]*lamprimebar[f6]*
+         lamprimebar[f4]*e_[l99,l4]*e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*
+         p1.p1*FourPi^(-2)*I^9*MHT^(-2) - 3/2*lamprime[f6]*lamprime[f4]
+         *lamprimebar[f6]*lamprimebar[f4]*e_[l99,l4]*e_[l97,l6]*e_[l95,
+         l6]*e_[l93,l4]*p1.p3*FourPi^(-2)*I^9*MHT^(-2) - 1/2*lamprime[
+         f6]*lamprime[f4]*lamprimebar[f6]*lamprimebar[f4]*e_[l99,l4]*
+         e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*p1.p4*FourPi^(-2)*I^9*
+         MHT^(-2) - 3*lamprime[f6]*lamprime[f4]*lamprimebar[f6]*
+         lamprimebar[f4]*e_[l99,l4]*e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*
+         p3.p3*FourPi^(-2)*I^9*MHT^(-2) - 9/2*lamprime[f6]*lamprime[f4]
+         *lamprimebar[f6]*lamprimebar[f4]*e_[l99,l4]*e_[l97,l6]*e_[l95,
+         l6]*e_[l93,l4]*p3.p4*FourPi^(-2)*I^9*MHT^(-2) - 5/2*lamprime[
+         f6]*lamprime[f4]*lamprimebar[f6]*lamprimebar[f4]*e_[l99,l4]*
+         e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*p4.p4*FourPi^(-2)*I^9*
+         MHT^(-2) - 3*lamprime[f6]*yu[f4,f8]*lamprimebar[f4]*yubar[f6,
+         f8]*e_[l99,l4]*e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*p1.p1*
+         FourPi^(-2)*I^9*MHT^(-2) + 9/2*lamprime[f6]*yu[f4,f8]*
+         lamprimebar[f4]*yubar[f6,f8]*e_[l99,l4]*e_[l97,l6]*e_[l95,l6]*
+         e_[l93,l4]*p1.p3*FourPi^(-2)*I^9*MHT^(-2) - 3*lamprime[f6]*yu[
+         f4,f8]*lamprimebar[f4]*yubar[f6,f8]*e_[l99,l4]*e_[l97,l6]*e_[
+         l95,l6]*e_[l93,l4]*p1.p4*FourPi^(-2)*I^9*MHT^(-2) + 3/2*
+         lamprime[f6]*yu[f4,f8]*lamprimebar[f4]*yubar[f6,f8]*e_[l99,l4]
+         *e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*p3.p3*FourPi^(-2)*I^9*
+         MHT^(-2) + 6*lamprime[f6]*yu[f4,f8]*lamprimebar[f4]*yubar[f6,
+         f8]*e_[l99,l4]*e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*p3.p4*
+         FourPi^(-2)*I^9*MHT^(-2) + 3/2*lamprime[f6]*yu[f4,f8]*
+         lamprimebar[f4]*yubar[f6,f8]*e_[l99,l4]*e_[l97,l6]*e_[l95,l6]*
+         e_[l93,l4]*p4.p4*FourPi^(-2)*I^9*MHT^(-2) + 9/2*lamprime[f8]*
+         yd[f2,f6]*lamprimebar[f2]*ydbar[f8,f6]*e_[l99,l97]*e_[l95,l93]
+         *p1.p3*FourPi^(-2)*I^9*MHT^(-2) - 9/2*lamprime[f8]*yd[f2,f6]*
+         lamprimebar[f2]*ydbar[f8,f6]*e_[l99,l97]*e_[l95,l93]*p1.p4*
+         FourPi^(-2)*I^9*MHT^(-2) + 6*lamprime[f8]*yd[f2,f6]*
+         lamprimebar[f2]*ydbar[f8,f6]*e_[l99,l97]*e_[l95,l93]*p2.p3*
+         FourPi^(-2)*I^9*MHT^(-2) - 6*lamprime[f8]*yd[f2,f6]*
+         lamprimebar[f2]*ydbar[f8,f6]*e_[l99,l97]*e_[l95,l93]*p2.p4*
+         FourPi^(-2)*I^9*MHT^(-2) + 3/2*lamprime[f8]*yd[f2,f6]*
+         lamprimebar[f2]*ydbar[f8,f6]*e_[l99,l97]*e_[l95,l93]*p3.p3*
+         FourPi^(-2)*I^9*MHT^(-2) - 3/2*lamprime[f8]*yd[f2,f6]*
+         lamprimebar[f2]*ydbar[f8,f6]*e_[l99,l97]*e_[l95,l93]*p4.p4*
+         FourPi^(-2)*I^9*MHT^(-2) - 3*lamprime[f8]*yd[f2,f4]*
+         lamprimebar[f2]*ydbar[f8,f4]*e_[l99,l97]*e_[l95,l93]*p1.p3*
+         FourPi^(-2)*I^9*MHT^(-2) + 3*lamprime[f8]*yd[f2,f4]*
+         lamprimebar[f2]*ydbar[f8,f4]*e_[l99,l97]*e_[l95,l93]*p1.p4*
+         FourPi^(-2)*I^9*MHT^(-2) - 3/2*lamprime[f8]*yd[f2,f4]*
+         lamprimebar[f2]*ydbar[f8,f4]*e_[l99,l97]*e_[l95,l93]*p2.p3*
+         FourPi^(-2)*I^9*MHT^(-2) + 3/2*lamprime[f8]*yd[f2,f4]*
+         lamprimebar[f2]*ydbar[f8,f4]*e_[l99,l97]*e_[l95,l93]*p2.p4*
+         FourPi^(-2)*I^9*MHT^(-2) + 3/2*lamprime[f8]*yd[f2,f4]*
+         lamprimebar[f2]*ydbar[f8,f4]*e_[l99,l97]*e_[l95,l93]*p3.p3*
+         FourPi^(-2)*I^9*MHT^(-2) - 3/2*lamprime[f8]*yd[f2,f4]*
+         lamprimebar[f2]*ydbar[f8,f4]*e_[l99,l97]*e_[l95,l93]*p4.p4*
+         FourPi^(-2)*I^9*MHT^(-2) - 3*lamprime[f8]*yu[f2,f6]*
+         lamprimebar[f2]*yubar[f8,f6]*e_[l99,l2]*e_[l97,l8]*e_[l95,l2]*
+         e_[l93,l8]*p1.p1*FourPi^(-2)*I^9*MHT^(-2) - 3*lamprime[f8]*yu[
+         f2,f6]*lamprimebar[f2]*yubar[f8,f6]*e_[l99,l2]*e_[l97,l8]*e_[
+         l95,l2]*e_[l93,l8]*p1.p3*FourPi^(-2)*I^9*MHT^(-2) + 9/2*
+         lamprime[f8]*yu[f2,f6]*lamprimebar[f2]*yubar[f8,f6]*e_[l99,l2]
+         *e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*p1.p4*FourPi^(-2)*I^9*
+         MHT^(-2) + 3/2*lamprime[f8]*yu[f2,f6]*lamprimebar[f2]*yubar[f8
+         ,f6]*e_[l99,l2]*e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*p3.p3*
+         FourPi^(-2)*I^9*MHT^(-2) + 6*lamprime[f8]*yu[f2,f6]*
+         lamprimebar[f2]*yubar[f8,f6]*e_[l99,l2]*e_[l97,l8]*e_[l95,l2]*
+         e_[l93,l8]*p3.p4*FourPi^(-2)*I^9*MHT^(-2) + 3/2*lamprime[f8]*
+         yu[f2,f6]*lamprimebar[f2]*yubar[f8,f6]*e_[l99,l2]*e_[l97,l8]*
+         e_[l95,l2]*e_[l93,l8]*p4.p4*FourPi^(-2)*I^9*MHT^(-2) - 3*
+         lamprime[f4]*yu[f6,f2]*lamprimebar[f6]*yubar[f4,f2]*e_[l99,l4]
+         *e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*p1.p1*FourPi^(-2)*I^9*
+         MHT^(-2) - 3*lamprime[f4]*yu[f6,f2]*lamprimebar[f6]*yubar[f4,
+         f2]*e_[l99,l4]*e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*p1.p3*
+         FourPi^(-2)*I^9*MHT^(-2) - 21/2*lamprime[f4]*yu[f6,f2]*
+         lamprimebar[f6]*yubar[f4,f2]*e_[l99,l4]*e_[l97,l6]*e_[l95,l6]*
+         e_[l93,l4]*p1.p4*FourPi^(-2)*I^9*MHT^(-2) + 3/2*lamprime[f4]*
+         yu[f6,f2]*lamprimebar[f6]*yubar[f4,f2]*e_[l99,l4]*e_[l97,l6]*
+         e_[l95,l6]*e_[l93,l4]*p3.p3*FourPi^(-2)*I^9*MHT^(-2) - 3/2*
+         lamprime[f4]*yu[f6,f2]*lamprimebar[f6]*yubar[f4,f2]*e_[l99,l4]
+         *e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*p3.p4*FourPi^(-2)*I^9*
+         MHT^(-2) - 6*lamprime[f4]*yu[f6,f2]*lamprimebar[f6]*yubar[f4,
+         f2]*e_[l99,l4]*e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*p4.p4*
+         FourPi^(-2)*I^9*MHT^(-2) )
+
+       + 6*Log[MHT^2]*lamprime[f2]*lamprime[f8]*lamprimebar[f2]*
+      lamprimebar[f8]*e_[l99,l2]*e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*
+      FourPi^(-2)*I^9 + 6*Log[MHT^2]*lamprime[f2]*yu[f8,f4]*
+         lamprimebar[f8]*yubar[f2,f4]*e_[l99,l2]*e_[l97,l8]*e_[l95,l2]*
+         e_[l93,l8]*FourPi^(-2)*I^9 + 6*Log[MHT^2]*lamprime[f6]*
+         lamprime[f4]*lamprimebar[f6]*lamprimebar[f4]*e_[l99,l4]*e_[l97
+         ,l6]*e_[l95,l6]*e_[l93,l4]*FourPi^(-2)*I^9 + 6*Log[MHT^2]*
+         lamprime[f6]*yu[f4,f8]*lamprimebar[f4]*yubar[f6,f8]*e_[l99,l4]
+         *e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*FourPi^(-2)*I^9 + 6*Log[
+         MHT^2]*lamprime[f8]*yu[f2,f6]*lamprimebar[f2]*yubar[f8,f6]*e_[
+         l99,l2]*e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*FourPi^(-2)*I^9 + 6*
+         Log[MHT^2]*lamprime[f4]*yu[f6,f2]*lamprimebar[f6]*yubar[f4,f2]
+         *e_[l99,l4]*e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*FourPi^(-2)*I^9
+          - 6*lamprime[f2]*yu[f8,f4]*lamprimebar[f8]*yubar[f2,f4]*e_[
+         l99,l2]*e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*FourPi^(-2)*I^9 - 6*
+         lamprime[f6]*yu[f4,f8]*lamprimebar[f4]*yubar[f6,f8]*e_[l99,l4]
+         *e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*FourPi^(-2)*I^9 - 6*
+         lamprime[f8]*yu[f2,f6]*lamprimebar[f2]*yubar[f8,f6]*e_[l99,l2]
+         *e_[l97,l8]*e_[l95,l2]*e_[l93,l8]*FourPi^(-2)*I^9 - 6*
+         lamprime[f4]*yu[f6,f2]*lamprimebar[f6]*yubar[f4,f2]*e_[l99,l4]
+         *e_[l97,l6]*e_[l95,l6]*e_[l93,l4]*FourPi^(-2)*I^9;
+
+  0.64 sec out of 0.65 sec

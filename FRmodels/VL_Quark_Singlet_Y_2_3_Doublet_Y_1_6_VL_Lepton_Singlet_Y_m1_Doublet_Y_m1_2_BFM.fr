@@ -1,0 +1,195 @@
+(* ************************** *)
+(* *****  Information   ***** *)
+(* ************************** *)
+M$ModelName = "VL_Quark_Singlet_Y_2_3_Doublet_Y_1_6_VL_Lepton_Singlet_Y_m1_Doublet_Y_m1_2_BFM";
+
+M$Information = {
+  Authors      -> {"J. Santiago"}, 
+  Version      -> "1.0",
+  Date         -> "24. 10. 2018",
+  Institutions -> {"CAFPE and Universidad de Granada"},
+  Emails       -> {"jsantiago@ugr.es"}
+};
+
+FeynmanGauge = True;
+
+(* ************************** *)
+(* **** Particle classes **** *)
+(* ************************** *)
+M$ClassesDescription = {
+
+
+  F[105] == {
+    ClassName        -> HT,
+    Indices          -> {Index[Colour]},
+(*    Indices          -> {Index[Generation],Index[Colour]},*)
+    SelfConjugate    -> False,
+    QuantumNumbers -> {Y -> 2/3},
+    Mass             -> MHT,
+    Width            -> 0
+  },
+
+  F[106] == {
+    ClassName        -> HQ,
+    Indices          -> {Index[SU2D],Index[Colour]},
+    (*Indices          -> {Index[SU2D],Index[Generation],Index[Colour]},*)
+    SelfConjugate    -> False,
+    QuantumNumbers -> {Y -> 1/6},
+    Mass             -> MHQ,
+    Width            -> 0
+  },
+
+  F[107] == {
+    ClassName        -> HE,
+    (*Indices          -> {Index[Colour]},*)
+(*    Indices          -> {Index[Generation],Index[Colour]},*)
+    SelfConjugate    -> False,
+    QuantumNumbers -> {Y -> -1},
+    Mass             -> MHE,
+    Width            -> 0
+  },
+
+  F[108] == {
+    ClassName        -> HL,
+    Indices          -> {Index[SU2D]},
+    (*Indices          -> {Index[SU2D],Index[Generation],Index[Colour]},*)
+    SelfConjugate    -> False,
+    QuantumNumbers -> {Y -> -1/2},
+    Mass             -> MHL,
+    Width            -> 0
+  }
+
+};
+
+(* ************************** *)
+(* *****   Parameters   ***** *)
+(* ************************** *)
+M$Parameters = {
+
+  (* External parameters *)
+
+  (* Internal Parameters *)
+  lamprime == { 
+    ParameterType     -> Internal, 
+    Indices           -> {Index[Generation]},
+(*    Indices           -> {Index[Generation],Index[Generation]},*)
+    ComplexParameter  -> True
+  },
+
+  lamprimeQu == { 
+    ParameterType     -> Internal, 
+    Indices           -> {Index[Generation]},
+(*    Indices           -> {Index[Generation],Index[Generation]},*)
+    ComplexParameter  -> True
+  },
+
+  lamprimeQd == { 
+    ParameterType     -> Internal, 
+    Indices           -> {Index[Generation]},
+(*    Indices           -> {Index[Generation],Index[Generation]},*)
+    ComplexParameter  -> True
+  },
+
+  lamprimeQTL == { 
+    ParameterType     -> Internal, 
+(*    Indices           -> {Index[Generation],Index[Generation]},*)
+    ComplexParameter  -> True
+  },
+
+  lamprimeQTR == { 
+    ParameterType     -> Internal, 
+(*    Indices           -> {Index[Generation],Index[Generation]},*)
+    ComplexParameter  -> True
+  },
+
+  MHT == { 
+    ParameterType     -> Internal, 
+(*    Indices           -> {Index[Generation]},
+    AllowSummation    -> True,*)
+    ComplexParameter  -> False
+  },
+
+  MHQ == { 
+    ParameterType     -> Internal, 
+(*    Indices           -> {Index[Generation]},
+    AllowSummation    -> True,*)
+    ComplexParameter  -> False
+  },
+
+  lamprimel == { 
+    ParameterType     -> Internal, 
+    Indices           -> {Index[Generation]},
+(*    Indices           -> {Index[Generation],Index[Generation]},*)
+    ComplexParameter  -> True
+  },
+
+  lamprimeLe == { 
+    ParameterType     -> Internal, 
+    Indices           -> {Index[Generation]},
+(*    Indices           -> {Index[Generation],Index[Generation]},*)
+    ComplexParameter  -> True
+  },
+
+  lamprimeLEL == { 
+    ParameterType     -> Internal, 
+(*    Indices           -> {Index[Generation],Index[Generation]},*)
+    ComplexParameter  -> True
+  },
+
+  lamprimeLER == { 
+    ParameterType     -> Internal, 
+(*    Indices           -> {Index[Generation],Index[Generation]},*)
+    ComplexParameter  -> True
+  },
+
+  MHE == { 
+    ParameterType     -> Internal, 
+(*    Indices           -> {Index[Generation]},
+    AllowSummation    -> True,*)
+    ComplexParameter  -> False
+  },
+
+  MHL == { 
+    ParameterType     -> Internal, 
+(*    Indices           -> {Index[Generation]},
+    AllowSummation    -> True,*)
+    ComplexParameter  -> False
+  }
+
+};
+
+
+(* ************************** *)
+(* *****   Lagrangian   ***** *)
+(* ************************** *)
+
+gotoBFM={G[a__]->G[a]+GQuantum[a],Wi[a__]->Wi[a]+WiQuantum[a],B[a__]->B[a]+BQuantum[a]};
+
+LHeavy := Block[{mu}, 
+  I*(HTbar.Ga[mu].DC[HT, mu])-MHT*HTbar.HT
+ +I*(HQbar.Ga[mu].DC[HQ, mu])-MHQ*HQbar.HQ
+ +I*(HEbar.Ga[mu].DC[HE, mu])-MHE*HEbar.HE
+ +I*(HLbar.Ga[mu].DC[HL, mu])-MHL*HLbar.HL
+  ]/.gotoBFM;
+
+
+
+LHeavylight := Block[{sp1,ii,jj,cc,ff1,ff2,ff3,yuk}, 
+  yuk =
+   -lamprime[ff1] QLbar[sp1, ii, ff1, cc].HT [sp1, cc] Phibar[jj] Eps[ii, jj]
+   -lamprimeQTL HQbar[sp1, ii, cc].left[HT [sp1, cc]] Phibar[jj] Eps[ii, jj]
+   -lamprimeQTR HQbar[sp1, ii, cc].right[HT [sp1, cc]] Phibar[jj] Eps[ii, jj]
+   -lamprimeQu[ff1] HQbar[sp1, ii, cc].UR[sp1,ff1, cc] Phibar[jj] Eps[ii, jj]
+   -lamprimeQd[ff1] HQbar[sp1, ii, cc].DR[sp1,ff1, cc] Phi[ii]
+   -lamprimel[ff1] LLbar[sp1, ii, ff1].HE [sp1] Phi[ii] 
+   -lamprimeLEL HLbar[sp1, ii].left[HE [sp1]] Phi[ii]
+   -lamprimeLER HLbar[sp1, ii].right[HE [sp1]] Phi[ii]
+   -lamprimeLe[ff1] HLbar[sp1, ii].LR[sp1,ff1] Phi[ii];
+  yuk+HC[yuk]
+ ];
+
+LNP := LHeavy + LHeavylight;
+
+Ltot := LSM + LNP;
+
+

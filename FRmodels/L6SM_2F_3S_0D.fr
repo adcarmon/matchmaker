@@ -1,0 +1,80 @@
+(***************************************************************************************************************)
+(******                       This is the FeynRules mod-file for the Unbroken Standard model              ******)
+(******                                                                                                   ******)
+(******     Authors: J. Santiago                                                                          ******)
+(******                                                                                                   ******)
+(****** Choose whether Feynman gauge is desired.                                                          ******)
+(****** If set to False, unitary gauge is assumed.                                                          ****)
+(****** Feynman gauge is especially useful for CalcHEP/CompHEP where the calculation is 10-100 times faster. ***)
+(****** Feynman gauge is not supported in MadGraph and Sherpa.                                              ****)
+(***************************************************************************************************************)
+
+(* ************************** *)
+(* *****  Information   ***** *)
+(* ************************** *)
+M$ModelName = "L6SM_2F_3S_0D";
+
+M$Information = {
+  Authors      -> {"J. Santiago"}, 
+  Version      -> "1.0",
+  Date         -> "9. 03. 2016",
+  Institutions -> {"CAFPE and Universidad de Granada"},
+  Emails       -> {"jsantiago@ugr.es"}
+};
+
+FeynmanGauge = True;
+
+
+(* ************************** *)
+(* *****   Parameters   ***** *)
+(* ************************** *)
+M$Parameters = {
+
+  (* External parameters *)
+
+  (* Internal Parameters *)
+
+  	 
+  alphaO16 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation]},
+    ComplexParameter        -> True
+  },
+
+  alphaO17 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation]},
+    ComplexParameter        -> True
+  },
+  	 
+  alphaO18 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation]},
+    ComplexParameter        -> True
+  }
+
+
+};
+
+
+(* ************************** *)
+(* *****   Lagrangian   ***** *)
+(* ************************** *)
+
+(* Recall that Ta=sigma/2 *)
+(* We have a change of notation wrt HEL *)
+Wvec[mu_,nu_,ii_,jj_]:= Module[{aa},2 Ta[aa,ii,jj] FS[Wi,mu,nu,aa]];
+(* Define sigma[mu,nu]= I/2 [gamma(mu),gamma(nu)] *)
+sigmamunu[mu_,nu_,sp_,sp2_]:=Module[{sp1},(I/2)*(Ga[mu,sp,sp1]*Ga[nu,sp1,sp2]-Ga[nu,sp,sp1]*Ga[mu,sp1,sp2])];
+
+LF2S3 := Block[{lag,ff1,ff2,ii,sp,jj,cc,kk},
+      lag= ExpandIndices[
+           alphaO16[ff1,ff2]*Phibar[ii]*Phi[ii]*LLbar[sp,jj,ff1].LR[sp,ff2] Phi[jj]
+          +alphaO17[ff1,ff2]*Phibar[ii]*Phi[ii]*QLbar[sp,jj,ff1,cc].UR[sp,ff2,cc] Phibar[kk] Eps[jj,kk]
+          +alphaO18[ff1,ff2]*Phibar[ii]*Phi[ii]*QLbar[sp,jj,ff1,cc].DR[sp,ff2,cc] Phi[jj],FlavorExpand->SU2D];
+	  lag+HC[lag]
+];
+
+Ltot:= LF2S3;
+
+

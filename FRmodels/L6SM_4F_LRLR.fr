@@ -1,0 +1,116 @@
+(***************************************************************************************************************)
+(******                       This is the FeynRules mod-file for the Unbroken Standard model              ******)
+(******                                                                                                   ******)
+(******     Authors: J. Santiago                                                                          ******)
+(******                                                                                                   ******)
+(****** Choose whether Feynman gauge is desired.                                                          ******)
+(****** If set to False, unitary gauge is assumed.                                                          ****)
+(****** Feynman gauge is especially useful for CalcHEP/CompHEP where the calculation is 10-100 times faster. ***)
+(****** Feynman gauge is not supported in MadGraph and Sherpa.                                              ****)
+(***************************************************************************************************************)
+
+(* ************************** *)
+(* *****  Information   ***** *)
+(* ************************** *)
+M$ModelName = "L6SM_4F_LRLR";
+
+M$Information = {
+  Authors      -> {"J. Santiago"}, 
+  Version      -> "1.0",
+  Date         -> "16. 02. 2017",
+  Institutions -> {"CAFPE and Universidad de Granada"},
+  Emails       -> {"jsantiago@ugr.es"}
+};
+FeynmanGauge = True;
+
+
+(* ************************** *)
+(* *****   Parameters   ***** *)
+(* ************************** *)
+M$Parameters = {
+
+  (* External parameters *)
+
+  (* Internal Parameters *)
+
+  	 
+  alphaO44 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaO45 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaO46 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaO47 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+
+  alphaF19 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaF20 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaF21 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  },
+  	 
+  alphaF22 == { 
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation],Index[Generation],Index[Generation],Index[Generation]},
+    ComplexParameter -> True
+  }
+
+};
+
+
+(* ************************** *)
+(* *****   Lagrangian   ***** *)
+(* ************************** *)
+
+(* Recall that Ta=sigma/2 *)
+(* Recall that T=lambda/2 *)
+(* Define sigma[mu,nu]= I/2 [gamma(mu),gamma(nu)] *)
+sigmamunu[mu_,nu_,sp_,sp2_]:=Module[{sp1},(I/2)*(Ga[mu,sp,sp1]*Ga[nu,sp1,sp2]-Ga[nu,sp,sp1]*Ga[mu,sp1,sp2])];
+gamma3[mu_,nu_,rho_,sp1_,sp4_]:=Module[{sp2,sp3},Ga[mu,sp1,sp2]*Ga[nu,sp2,sp3]*Ga[rho,sp3,sp4]];
+
+LF4LRLR := Block[{lag,lagnoh,ff1,ff2,ff3,ff4,sp1,sp2,sp3,sp4,ii,jj,cc1,cc2,cc3,cc4,aa,mu,nu,rho},
+      lagnoh= ExpandIndices[
+           alphaO44[ff1,ff2,ff3,ff4]*(QLbar[sp1,ii,ff1,cc1].UR[sp1,ff2,cc1])*(QLbar[sp2,jj,ff3,cc2].DR[sp2,ff4,cc2])*Eps[ii,jj]
+          +alphaO45[ff1,ff2,ff3,ff4]*(QLbar[sp1,ii,ff1,cc1].UR[sp1,ff2,cc2])*(QLbar[sp2,jj,ff3,cc3].DR[sp2,ff4,cc4])*Eps[ii,jj]*T[aa,cc1,cc2]*T[aa,cc3,cc4]
+          +alphaO46[ff1,ff2,ff3,ff4]*(LLbar[sp1,ii,ff1].LR[sp1,ff2])*(QLbar[sp2,jj,ff3,cc2].UR[sp2,ff4,cc2])*Eps[ii,jj]
+          +alphaO47[ff1,ff2,ff3,ff4]*(LLbar[sp1,ii,ff1].LR[sp2,ff2])*(QLbar[sp3,jj,ff3,cc2].UR[sp4,ff4,cc2])*Eps[ii,jj]*sigmamunu[mu,nu,sp1,sp2]*sigmamunu[mu,nu,sp3,sp4]
+          +alphaF19[ff1,ff2,ff3,ff4]*(QLbar[sp1,ii,ff1,cc1].UR[sp2,ff2,cc1])*(QLbar[sp3,jj,ff3,cc2].DR[sp4,ff4,cc2])*Eps[ii,jj]*sigmamunu[mu,nu,sp1,sp2]*sigmamunu[mu,nu,sp3,sp4]
+          +alphaF20[ff1,ff2,ff3,ff4]*(QLbar[sp1,ii,ff1,cc1].UR[sp2,ff2,cc2])*(QLbar[sp3,jj,ff3,cc3].DR[sp4,ff4,cc4])*Eps[ii,jj]*T[aa,cc1,cc2]*T[aa,cc3,cc4]*sigmamunu[mu,nu,sp1,sp2]*sigmamunu[mu,nu,sp3,sp4]
+          +alphaF21[ff1,ff2,ff3,ff4]*(LLbar[sp1,ii,ff1].UR[sp1,ff2,cc2])*(QLbar[sp2,jj,ff3,cc2].LR[sp2,ff4])*Eps[ii,jj]
+          +alphaF22[ff1,ff2,ff3,ff4]*(LLbar[sp1,ii,ff1].UR[sp2,ff2,cc2])*(QLbar[sp3,jj,ff3,cc2].LR[sp4,ff4])*Eps[ii,jj]*sigmamunu[mu,nu,sp1,sp2]*sigmamunu[mu,nu,sp3,sp4]
+          ,FlavorExpand->SU2D];
+	  lagnoh+HC[lagnoh]
+];
+
+
+
+
+Ltot:= LF4LRLR;
+

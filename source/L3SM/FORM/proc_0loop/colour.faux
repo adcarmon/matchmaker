@@ -1,0 +1,37 @@
+#do j=1,4 
+id,once FF(a1?, a2?, a3?, a4?)=Fc(adum'j', a1, a2)*Fc(adum'j',a3, a4);
+#enddo
+
+#do k=101,120 
+id,once TTC(i1?, a1?, a2?, i2?)=Tc(i1, a1, idum'k')*Tc(idum'k',a2, i2);
+#enddo
+
+
+
+#do k=0,20
+Id,once Fc(a1?, a2?, a3?)=-2*I*Tc(idum{3*'k'+1}, a1, idum{3*'k'+2})*Tc(idum{3*'k'+2}, a2, idum{3*'k'+3})*Tc(idum{3*'k'+3}, a3, idum{3*'k'+1})
++2*I*Tc(idum{3*'k'+1}, a2, idum{3*'k'+2})*Tc(idum{3*'k'+2}, a1, idum{3*'k'+3})*Tc(idum{3*'k'+3}, a3, idum{3*'k'+1});
+repeat;
+id Tc(i1?, a1?, i2?)*Tc(i3?, a1?, i4?)=1/2*(d_(i1, i4)*d_(i2, i3)-1/N*d_(i1, i2)*d_(i3, i4));
+endrepeat;
+
+#enddo
+Id Tc(i1? a1?, i1?)=0;
+Id Tc(i1?, a1?, i2?)*Tc(i2?, a2?, i1?)=1/2*d_(a1, a2);
+.sort
+
+id V=N^2-1;
+
+repeat; 
+id I^2=-1;
+endrepeat;
+
+repeat;
+id Tc(?a,i1?)*Tc(i1?,?b)=Tc(?a,?b);
+endrepeat;
+
+id Tc(i1?,?a,i1?)=Tc(?a);
+
+repeat;
+id Tc(a3?,?a,a99,?b)=Tc(?a,a99,?b,a3);
+endrepeat;

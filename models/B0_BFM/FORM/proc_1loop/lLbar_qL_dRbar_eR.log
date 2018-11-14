@@ -1,0 +1,131 @@
+FORM 4.2.0 (Jul  6 2017, v4.2.0) 64-bits         Run: Fri Mar 16 14:57:24 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   ampllLbarqLdRbareR =
+       + 1/16*Log[MBH0^2]*gBH0dR[f95,f6]*gBH0eR[f4,f93]*yl[f99,f4]*
+         ydbar[f97,f6]*gam[y99,FIVE,mugam2,mu8,y93]*gam[y95,FIVE,mu8,
+         mugam2,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[
+         p3,y95]*d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) - 1/
+         16*Log[MBH0^2]*gBH0dR[f95,f6]*gBH0eR[f4,f93]*yl[f99,f4]*ydbar[
+         f97,f6]*gam[y99,FIVE,mugam2,mu8,y93]*gam[y95,mu8,mugam2,y97]*
+         uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*
+         d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) + 1/16*Log[
+         MBH0^2]*gBH0dR[f95,f6]*gBH0eR[f4,f93]*yl[f99,f4]*ydbar[f97,f6]
+         *gam[y99,mugam2,mu8,y93]*gam[y95,FIVE,mu8,mugam2,y97]*uspin[p2
+         ,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*
+         d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) - 1/16*Log[MBH0^2]*
+         gBH0dR[f95,f6]*gBH0eR[f4,f93]*yl[f99,f4]*ydbar[f97,f6]*gam[y99
+         ,mugam2,mu8,y93]*gam[y95,mu8,mugam2,y97]*uspin[p2,y97]*uspin[
+         p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*
+         FourPi^(-2)*I^9*MBH0^(-2) - 1/16*Log[MBH0^2]*gBH0dR[f95,f6]*
+         gBH0lL[f99,f4]*yl[f4,f93]*ydbar[f97,f6]*gam[y99,FIVE,mu2,
+         mugam2,y93]*gam[y95,FIVE,mu2,mugam2,y97]*uspin[p2,y97]*uspin[
+         p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*
+         FourPi^(-2)*I^9*MBH0^(-2) + 1/16*Log[MBH0^2]*gBH0dR[f95,f6]*
+         gBH0lL[f99,f4]*yl[f4,f93]*ydbar[f97,f6]*gam[y99,FIVE,mu2,
+         mugam2,y93]*gam[y95,mu2,mugam2,y97]*uspin[p2,y97]*uspin[p4,y93
+         ]*vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*
+         FourPi^(-2)*I^9*MBH0^(-2) - 1/16*Log[MBH0^2]*gBH0dR[f95,f6]*
+         gBH0lL[f99,f4]*yl[f4,f93]*ydbar[f97,f6]*gam[y99,mu2,mugam2,y93
+         ]*gam[y95,FIVE,mu2,mugam2,y97]*uspin[p2,y97]*uspin[p4,y93]*
+         vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*
+         FourPi^(-2)*I^9*MBH0^(-2) + 1/16*Log[MBH0^2]*gBH0dR[f95,f6]*
+         gBH0lL[f99,f4]*yl[f4,f93]*ydbar[f97,f6]*gam[y99,mu2,mugam2,y93
+         ]*gam[y95,mu2,mugam2,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[
+         p1,y99]*vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9
+         *MBH0^(-2) - 1/16*Log[MBH0^2]*gBH0eR[f4,f93]*gBH0qL[f6,f97]*
+         yl[f99,f4]*ydbar[f6,f95]*gam[y99,FIVE,mugam2,mu8,y93]*gam[y95,
+         FIVE,mugam2,mu8,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99
+         ]*vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*
+         MBH0^(-2) + 1/16*Log[MBH0^2]*gBH0eR[f4,f93]*gBH0qL[f6,f97]*yl[
+         f99,f4]*ydbar[f6,f95]*gam[y99,FIVE,mugam2,mu8,y93]*gam[y95,
+         mugam2,mu8,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*
+         vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*
+         MBH0^(-2) - 1/16*Log[MBH0^2]*gBH0eR[f4,f93]*gBH0qL[f6,f97]*yl[
+         f99,f4]*ydbar[f6,f95]*gam[y99,mugam2,mu8,y93]*gam[y95,FIVE,
+         mugam2,mu8,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*
+         vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*
+         MBH0^(-2) + 1/16*Log[MBH0^2]*gBH0eR[f4,f93]*gBH0qL[f6,f97]*yl[
+         f99,f4]*ydbar[f6,f95]*gam[y99,mugam2,mu8,y93]*gam[y95,mugam2,
+         mu8,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,
+         y95]*d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) + 1/16*
+         Log[MBH0^2]*gBH0lL[f99,f4]*gBH0qL[f6,f97]*yl[f4,f93]*ydbar[f6,
+         f95]*gam[y99,FIVE,mu2,mugam2,y93]*gam[y95,FIVE,mugam2,mu2,y97]
+         *uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*
+         d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) - 1/16*Log[
+         MBH0^2]*gBH0lL[f99,f4]*gBH0qL[f6,f97]*yl[f4,f93]*ydbar[f6,f95]
+         *gam[y99,FIVE,mu2,mugam2,y93]*gam[y95,mugam2,mu2,y97]*uspin[p2
+         ,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*
+         d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) + 1/16*Log[MBH0^2]*
+         gBH0lL[f99,f4]*gBH0qL[f6,f97]*yl[f4,f93]*ydbar[f6,f95]*gam[y99
+         ,mu2,mugam2,y93]*gam[y95,FIVE,mugam2,mu2,y97]*uspin[p2,y97]*
+         uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*
+         d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) - 1/16*Log[MBH0^2]*
+         gBH0lL[f99,f4]*gBH0qL[f6,f97]*yl[f4,f93]*ydbar[f6,f95]*gam[y99
+         ,mu2,mugam2,y93]*gam[y95,mugam2,mu2,y97]*uspin[p2,y97]*uspin[
+         p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*
+         FourPi^(-2)*I^9*MBH0^(-2) - 3/32*gBH0dR[f95,f6]*gBH0eR[f4,f93]
+         *yl[f99,f4]*ydbar[f97,f6]*gam[y99,FIVE,mugam2,mu8,y93]*gam[y95
+         ,FIVE,mu8,mugam2,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,
+         y99]*vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*
+         MBH0^(-2) + 3/32*gBH0dR[f95,f6]*gBH0eR[f4,f93]*yl[f99,f4]*
+         ydbar[f97,f6]*gam[y99,FIVE,mugam2,mu8,y93]*gam[y95,mu8,mugam2,
+         y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]
+         *d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) - 3/32*
+         gBH0dR[f95,f6]*gBH0eR[f4,f93]*yl[f99,f4]*ydbar[f97,f6]*gam[y99
+         ,mugam2,mu8,y93]*gam[y95,FIVE,mu8,mugam2,y97]*uspin[p2,y97]*
+         uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*
+         d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) + 3/32*gBH0dR[f95,f6]*
+         gBH0eR[f4,f93]*yl[f99,f4]*ydbar[f97,f6]*gam[y99,mugam2,mu8,y93
+         ]*gam[y95,mu8,mugam2,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[
+         p1,y99]*vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9
+         *MBH0^(-2) + 3/32*gBH0dR[f95,f6]*gBH0lL[f99,f4]*yl[f4,f93]*
+         ydbar[f97,f6]*gam[y99,FIVE,mu2,mugam2,y93]*gam[y95,FIVE,mu2,
+         mugam2,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[
+         p3,y95]*d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) - 3/
+         32*gBH0dR[f95,f6]*gBH0lL[f99,f4]*yl[f4,f93]*ydbar[f97,f6]*gam[
+         y99,FIVE,mu2,mugam2,y93]*gam[y95,mu2,mugam2,y97]*uspin[p2,y97]
+         *uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*
+         d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) + 3/32*gBH0dR[f95,f6]*
+         gBH0lL[f99,f4]*yl[f4,f93]*ydbar[f97,f6]*gam[y99,mu2,mugam2,y93
+         ]*gam[y95,FIVE,mu2,mugam2,y97]*uspin[p2,y97]*uspin[p4,y93]*
+         vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*
+         FourPi^(-2)*I^9*MBH0^(-2) - 3/32*gBH0dR[f95,f6]*gBH0lL[f99,f4]
+         *yl[f4,f93]*ydbar[f97,f6]*gam[y99,mu2,mugam2,y93]*gam[y95,mu2,
+         mugam2,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[
+         p3,y95]*d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) + 3/
+         32*gBH0eR[f4,f93]*gBH0qL[f6,f97]*yl[f99,f4]*ydbar[f6,f95]*gam[
+         y99,FIVE,mugam2,mu8,y93]*gam[y95,FIVE,mugam2,mu8,y97]*uspin[p2
+         ,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*
+         d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) - 3/32*gBH0eR[f4,f93]*
+         gBH0qL[f6,f97]*yl[f99,f4]*ydbar[f6,f95]*gam[y99,FIVE,mugam2,
+         mu8,y93]*gam[y95,mugam2,mu8,y97]*uspin[p2,y97]*uspin[p4,y93]*
+         vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*
+         FourPi^(-2)*I^9*MBH0^(-2) + 3/32*gBH0eR[f4,f93]*gBH0qL[f6,f97]
+         *yl[f99,f4]*ydbar[f6,f95]*gam[y99,mugam2,mu8,y93]*gam[y95,FIVE
+         ,mugam2,mu8,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*
+         vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*
+         MBH0^(-2) - 3/32*gBH0eR[f4,f93]*gBH0qL[f6,f97]*yl[f99,f4]*
+         ydbar[f6,f95]*gam[y99,mugam2,mu8,y93]*gam[y95,mugam2,mu8,y97]*
+         uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*
+         d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) - 3/32*
+         gBH0lL[f99,f4]*gBH0qL[f6,f97]*yl[f4,f93]*ydbar[f6,f95]*gam[y99
+         ,FIVE,mu2,mugam2,y93]*gam[y95,FIVE,mugam2,mu2,y97]*uspin[p2,
+         y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*
+         d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2) + 3/32*gBH0lL[f99,f4]*
+         gBH0qL[f6,f97]*yl[f4,f93]*ydbar[f6,f95]*gam[y99,FIVE,mu2,
+         mugam2,y93]*gam[y95,mugam2,mu2,y97]*uspin[p2,y97]*uspin[p4,y93
+         ]*vbspin[p1,y99]*vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*
+         FourPi^(-2)*I^9*MBH0^(-2) - 3/32*gBH0lL[f99,f4]*gBH0qL[f6,f97]
+         *yl[f4,f93]*ydbar[f6,f95]*gam[y99,mu2,mugam2,y93]*gam[y95,FIVE
+         ,mugam2,mu2,y97]*uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*
+         vbspin[p3,y95]*d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*
+         MBH0^(-2) + 3/32*gBH0lL[f99,f4]*gBH0qL[f6,f97]*yl[f4,f93]*
+         ydbar[f6,f95]*gam[y99,mu2,mugam2,y93]*gam[y95,mugam2,mu2,y97]*
+         uspin[p2,y97]*uspin[p4,y93]*vbspin[p1,y99]*vbspin[p3,y95]*
+         d_(l99,l97)*d_(m97,m95)*FourPi^(-2)*I^9*MBH0^(-2);
+
+  0.02 sec out of 0.02 sec

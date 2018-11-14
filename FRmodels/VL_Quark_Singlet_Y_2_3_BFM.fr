@@ -1,0 +1,77 @@
+(* ************************** *)
+(* *****  Information   ***** *)
+(* ************************** *)
+M$ModelName = "VL_Quark_Singlet_Y_2_3_BFM";
+
+M$Information = {
+  Authors      -> {"J. Santiago"}, 
+  Version      -> "1.0",
+  Date         -> "06. 07. 2017",
+  Institutions -> {"CAFPE and Universidad de Granada"},
+  Emails       -> {"jsantiago@ugr.es"}
+};
+
+FeynmanGauge = True;
+
+(* ************************** *)
+(* **** Particle classes **** *)
+(* ************************** *)
+M$ClassesDescription = {
+
+
+  F[105] == {
+    ClassName        -> HT,
+    Indices          -> {Index[Colour]},
+    SelfConjugate    -> False,
+    QuantumNumbers -> {Y -> 2/3},
+    Mass             -> MHT,
+    Width            -> 0
+  }
+
+};
+
+(* ************************** *)
+(* *****   Parameters   ***** *)
+(* ************************** *)
+M$Parameters = {
+
+  (* External parameters *)
+
+  (* Internal Parameters *)
+  lamprime == { 
+    ParameterType     -> Internal, 
+    Indices           -> {Index[Generation]},
+    ComplexParameter  -> True
+  },
+
+  MHT == { 
+    ParameterType     -> Internal, 
+    ComplexParameter  -> False
+  }
+
+};
+
+
+(* ************************** *)
+(* *****   Lagrangian   ***** *)
+(* ************************** *)
+
+gotoBFM={G[a__]->G[a]+GQuantum[a],Wi[a__]->Wi[a]+WiQuantum[a],B[a__]->B[a]+BQuantum[a]};
+
+LHeavy := Block[{mu}, 
+  I*(HTbar.Ga[mu].DC[HT, mu])-MHT*HTbar.HT]/.gotoBFM;
+
+
+
+LHeavylight := Block[{sp1,ii,jj,cc,ff1,ff2,ff3,yuk},
+ 
+  yuk =
+   -lamprime[ff1] QLbar[sp1, ii, ff1, cc].HT [sp1, cc] Phibar[jj] Eps[ii, jj];
+  yuk+HC[yuk]
+ ];
+
+LNP := LHeavy + LHeavylight;
+
+Ltot := LSM + LNP;
+
+

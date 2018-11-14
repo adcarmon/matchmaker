@@ -1,0 +1,88 @@
+diags:=[
+ 
+(-1)*
+ cpol(qLbar(-1,p1))*
+ cpol(dR(-3,p2))*
+ cpol(Wi(-5,p3))*
+ cpol(Phi(-7,p4))*
+
+ prop(dR(1,-k1),dRbar(2,-k1))*
+ prop(Phi(3,k1-p1),Phibar(4,k1-p1))*
+ prop(BH0(5,-k1-p2),BH0(6,-k1-p2))*
+ v3(qLbar(-1,p1),dR(1,-k1),Phi(3,k1-p1))*
+ v3(dRbar(2,k1),dR(-3,p2),BH0(5,-k1-p2))*
+ v4(BH0(6,k1+p2),Phi(-7,p4),Phibar(4,-k1+p1),Wi(-5,p3)),
+ 
+(-1)*
+ cpol(qLbar(-1,p1))*
+ cpol(dR(-3,p2))*
+ cpol(Wi(-5,p3))*
+ cpol(Phi(-7,p4))*
+
+ prop(qL(1,-k1),qLbar(2,-k1))*
+ prop(BH0(3,k1-p1),BH0(4,k1-p1))*
+ prop(Phi(5,-k1-p2),Phibar(6,-k1-p2))*
+ v3(qLbar(-1,p1),qL(1,-k1),BH0(3,k1-p1))*
+ v3(qLbar(2,k1),dR(-3,p2),Phi(5,-k1-p2))*
+ v4(BH0(4,-k1+p1),Phi(-7,p4),Phibar(6,k1+p2),Wi(-5,p3)),
+ 
+(-1)*
+ cpol(qLbar(-1,p1))*
+ cpol(dR(-3,p2))*
+ cpol(Wi(-5,p3))*
+ cpol(Phi(-7,p4))*
+
+ prop(dR(1,-k1),dRbar(2,-k1))*
+ prop(Phi(3,k1-p1),Phibar(4,k1-p1))*
+ prop(BH0(5,-k1-p2),BH0(6,-k1-p2))*
+ prop(Phi(7,k1-p1-p3),Phibar(8,k1-p1-p3))*
+ v3(qLbar(-1,p1),dR(1,-k1),Phi(3,k1-p1))*
+ v3(dRbar(2,k1),dR(-3,p2),BH0(5,-k1-p2))*
+ v3(Phi(7,k1-p1-p3),Phibar(4,-k1+p1),Wi(-5,p3))*
+ v3(BH0(6,k1+p2),Phi(-7,p4),Phibar(8,-k1+p1+p3)),
+ 
+(-1)*
+ cpol(qLbar(-1,p1))*
+ cpol(dR(-3,p2))*
+ cpol(Wi(-5,p3))*
+ cpol(Phi(-7,p4))*
+
+ prop(BH0(1,-k1),BH0(2,-k1))*
+ prop(qL(3,k1-p1),qLbar(4,k1-p1))*
+ prop(dR(5,k1+p2),dRbar(6,k1+p2))*
+ prop(qL(7,k1-p1-p3),qLbar(8,k1-p1-p3))*
+ v3(qLbar(-1,p1),qL(3,k1-p1),BH0(1,-k1))*
+ v3(dRbar(6,-k1-p2),dR(-3,p2),BH0(2,k1))*
+ v3(qLbar(4,-k1+p1),qL(7,k1-p1-p3),Wi(-5,p3))*
+ v3(qLbar(8,-k1+p1+p3),dR(5,k1+p2),Phi(-7,p4)),
+ 
+(-1)*
+ cpol(qLbar(-1,p1))*
+ cpol(dR(-3,p2))*
+ cpol(Wi(-5,p3))*
+ cpol(Phi(-7,p4))*
+
+ prop(qL(1,-k1),qLbar(2,-k1))*
+ prop(BH0(3,k1-p1),BH0(4,k1-p1))*
+ prop(Phi(5,-k1-p2),Phibar(6,-k1-p2))*
+ prop(Phi(7,-k1+p1+p4),Phibar(8,-k1+p1+p4))*
+ v3(qLbar(-1,p1),qL(1,-k1),BH0(3,k1-p1))*
+ v3(qLbar(2,k1),dR(-3,p2),Phi(5,-k1-p2))*
+ v3(BH0(4,-k1+p1),Phi(-7,p4),Phibar(8,k1-p1-p4))*
+ v3(Phi(7,-k1+p1+p4),Phibar(6,k1+p2),Wi(-5,p3)),
+ 
+(-1)*
+ cpol(qLbar(-1,p1))*
+ cpol(dR(-3,p2))*
+ cpol(Wi(-5,p3))*
+ cpol(Phi(-7,p4))*
+
+ prop(qL(1,-k1),qLbar(2,-k1))*
+ prop(BH0(3,k1-p1),BH0(4,k1-p1))*
+ prop(qL(5,-k1-p3),qLbar(6,-k1-p3))*
+ prop(Phi(7,-k1+p1+p4),Phibar(8,-k1+p1+p4))*
+ v3(qLbar(-1,p1),qL(1,-k1),BH0(3,k1-p1))*
+ v3(qLbar(2,k1),qL(5,-k1-p3),Wi(-5,p3))*
+ v3(BH0(4,-k1+p1),Phi(-7,p4),Phibar(8,k1-p1-p4))*
+ v3(qLbar(6,k1+p3),dR(-3,p2),Phi(7,-k1+p1+p4)),
+NULL]:

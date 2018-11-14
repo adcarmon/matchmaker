@@ -1,0 +1,11 @@
+diags:=[
+ 
+(+1)*
+ cpol(Phibar(-1,p1))*
+ cpol(Phi(-3,p2))*
+
+ prop(Phi(1,k1-p1),Phibar(2,k1-p1))*
+ prop(BH0(3,-k1),BH0(4,-k1))*
+ v3(BH0(3,-k1),Phi(1,k1-p1),Phibar(-1,p1))*
+ v3(BH0(4,k1),Phi(-3,p2),Phibar(2,-k1+p1)),
+NULL]:

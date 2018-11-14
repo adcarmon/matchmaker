@@ -1,0 +1,64 @@
+(***************************************************************************************************************)
+(******                       This is the FeynRules mod-file for the Unbroken Standard model              ******)
+(******                                                              with arbitrary coefficients          ******)
+(******                                                                                                   ******)
+(******     Authors: J. Santiago                                                                          ******)
+(******                                                                                                   ******)
+(****** Choose whether Feynman gauge is desired.                                                          ******)
+(****** If set to False, unitary gauge is assumed.                                                          ****)
+(****** Feynman gauge is especially useful for CalcHEP/CompHEP where the calculation is 10-100 times faster. ***)
+(****** Feynman gauge is not supported in MadGraph and Sherpa.                                              ****)
+(***************************************************************************************************************)
+
+(* ************************** *)
+(* *****  Information   ***** *)
+(* ************************** *)
+M$ModelName = "L2SM";
+
+M$Information = {
+  Authors      -> {"J. Santiago"}, 
+  Version      -> "1.1",
+  Date         -> "4. 06. 2017",
+  Institutions -> {"CAFPE and Universidad de Granada"},
+  Emails       -> {"jsantiago@ugr.es"}
+};
+
+FeynmanGauge = True;
+
+(* ************************** *)
+(* ************************** *)
+(* ************************** *)
+(* ************************** *)
+(* ************************** *)
+
+
+(* ************************** *)
+(* *****   Parameters   ***** *)
+(* ************************** *)
+M$Parameters = {
+
+  (* External parameters *)
+
+  (* Internal Parameters *)
+  alphaS10 == {
+    ParameterType -> Internal
+  }
+
+};
+
+
+(* ************************** *)
+(* *****   Lagrangian   ***** *)
+(* ************************** *)
+
+
+
+L2Higgs := Block[{ii,mu, feynmangaugerules},
+  feynmangaugerules = If[Not[FeynmanGauge], {G0|GP|GPbar ->0}, {}]; 
+  ExpandIndices[alphaS10 Phibar[ii] Phi[ii], FlavorExpand->{SU2D,SU2W}]/.feynmangaugerules 
+ ]; 
+
+
+Ltot:= L2Higgs;
+
+

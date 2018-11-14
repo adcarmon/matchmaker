@@ -1,0 +1,24 @@
+FORM 4.2.0 (Jul  6 2017, v4.2.0) 64-bits         Run: Fri Mar 16 14:49:14 2018
+    * -*-Form-*-
+    
+    #: Parentheses 2000
+    #-
+
+   ampllLbarlL =
+       + sSS * (  - 1/2*Log[MBH0^2]*gBH0lL[f2,f97]*gBH0lL[f99,f2]*gam[
+         y99,FIVE,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(l99,l97)*
+         FourPi^(-2)*I^5 - 1/2*Log[MBH0^2]*gBH0lL[f2,f97]*gBH0lL[f99,f2
+         ]*gam[y99,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(l99,l97)*
+         FourPi^(-2)*I^5 - 1/4*gBH0lL[f2,f97]*gBH0lL[f99,f2]*gam[y99,
+         FIVE,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(l99,l97)*
+         FourPi^(-2)*I^5 - 1/4*gBH0lL[f2,f97]*gBH0lL[f99,f2]*gam[y99,p1
+         ,y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(l99,l97)*FourPi^(-2)*I^5
+          )
+
+       + sSS^3 * ( 1/6*gBH0lL[f2,f97]*gBH0lL[f99,f2]*gam[y99,FIVE,p1,
+         y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(l99,l97)*p1.p1*
+         FourPi^(-2)*I^5*MBH0^(-2) + 1/6*gBH0lL[f2,f97]*gBH0lL[f99,f2]*
+         gam[y99,p1,y97]*uspin[p2,y97]*vbspin[p1,y99]*d_(l99,l97)*p1.p1
+         *FourPi^(-2)*I^5*MBH0^(-2) );
+
+  0.02 sec out of 0.01 sec

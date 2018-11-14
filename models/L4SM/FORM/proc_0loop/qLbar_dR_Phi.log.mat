@@ -1,0 +1,1 @@
+amplqLbardRPhi =+ 1/2*alphaS12[f99,f97]*gam[y99,FIVE,y97]*uspin[p2,y97]*vbspin[p1,y99]*dd[m99,m97]*dd[l99,l95]*I + 1/2*alphaS12[f99,f97]*gam[y99,y97]*uspin[p2,y97]*vbspin[p1,y99]*dd[m99,m97]*dd[l99,l95]*I;

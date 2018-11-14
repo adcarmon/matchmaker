@@ -1,0 +1,20 @@
+
+ output= 'OUTPUTFILE' ;
+
+ style= 'my.sty' ;
+
+ model= 'THEMODEL';
+
+ in= LISTOFPARTICLES;
+
+ out=;
+
+ loops= 0;
+
+ loop_momentum= k;
+
+ options= ;
+
+ true = bridge[G, Wi, B, GQuantum, WiQuantum, BQuantum, ghG,
+ghWi, ghB, lL, eR, qL, uR, dR, Phi, 0 , 0];
+

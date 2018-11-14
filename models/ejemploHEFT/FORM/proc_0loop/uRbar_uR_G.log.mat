@@ -1,0 +1,1 @@
+ampluRbaruRG =+ 1/2*T[a95,m99,m97]*gam[y99,FIVE,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*dd[f99,f97]*I*gs - 1/2*T[a95,m99,m97]*gam[y99,pol3,y97]*uspin[p2,y97]*vbspin[p1,y99]*dd[f99,f97]*I*gs;
